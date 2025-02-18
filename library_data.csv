@@ -1,0 +1,1001 @@
+book_id,title,author,genre,publication_year,checkout_date,student_grade,return_date,condition_rating
+BK0027,Fahrenheit 451,Harper Lee,Poetry,2021,2023-08-01,10,2023-09-10,1.0
+BK0135,Pride and Prejudice,william Golding,Science Fiction,1981,2023-08-01,9,2023-09-01,2.0
+BK0041,Lord of the Flies,J.R.R. Tolkien,Reference,1950,2023-08-02,11,2023-08-22,3.0
+BK0033,The Catcher in the Rye,Jane   Austen,Fiction,2010,2023-08-02,10,2023-08-23,
+BK0065,The Catcher in the Rye,william Golding,Science Fiction,2015,2023-08-02,11,2023-09-11,5.0
+BK0045,The Catcher in the Rye,Ray  Bradbury,Poetry,1976,2023-08-02,11,2023-08-09,
+BK0039,1984,J.R.R. Tolkien,Poetry,1975,2023-08-03,11,2023-08-25,5.0
+BK0104,To Kill a Mockingbird,F. Scott  Fitzgerald,Non-Fiction,2006,2023-08-03,10,2023-09-01,4.0
+BK0018,The Hobbit,Jane   Austen,Poetry,1974,2023-08-03,10,2023-09-04,5.0
+BK0021,Fahrenheit 451,F. Scott  Fitzgerald,Historical Fiction,1960,2023-08-03,11,2023-08-29,4.0
+BK0194,The Catcher in the Rye,Jane   Austen,Biography,1987,2023-08-04,10,2023-09-16,2.0
+BK0178,The Catcher in the Rye,Aldous HUXLEY,Mystery,1965,2023-08-04,10,2023-08-28,4.0
+BK0073,Pride and Prejudice,william Golding,Reference,1982,2023-08-04,11,2023-08-31,2.0
+BK0096,1984,George Orwell,Historical Fiction,1989,2023-08-05,10,2023-08-27,2.0
+BK0050,Animal Farm,F. Scott  Fitzgerald,Non-Fiction,1967,2023-08-05,11,,1.0
+BK0117,Animal Farm,william Golding,Fiction,1970,2023-08-05,9,2023-08-25,5.0
+BK0108,Brave New World,william Golding,Biography,1978,2023-08-05,12,2023-08-18,1.0
+,Pride and Prejudice,william Golding,Reference,1950,2023-08-06,9,2023-09-07,4.0
+BK0121,To Kill a Mockingbird,J.R.R. Tolkien,Biography,2016,2023-08-06,9,2023-08-18,4.0
+BK0072,The Hobbit,J.D. Salinger,Reference,2008,2023-08-06,11,2023-08-14,4.0
+BK0111,1984,Jane   Austen,Poetry,2008,2023-08-06,9,2023-08-27,2.0
+BK0078,Brave New World,Aldous HUXLEY,Reference,2023,2023-08-06,11,2023-09-19,1.0
+BK0016,The Hobbit,william Golding,Poetry,1970,2023-08-06,9,,4.0
+BK0021,Fahrenheit 451,F. Scott  Fitzgerald,Non-Fiction,2008,2023-08-06,11,2023-09-03,4.0
+BK0142,The Hobbit,Ray  Bradbury,Science Fiction,1965,2023-08-07,9,2023-09-11,5.0
+BK0190,Fahrenheit 451,J.R.R. Tolkien,Historical Fiction,2018,2023-08-08,10,,3.0
+,Fahrenheit 451,Ray  Bradbury,Mystery,2007,2023-08-08,9,2023-08-22,3.0
+BK0062,The Hobbit,George Orwell,Science Fiction,2002,2023-08-08,9,2023-08-18,2.0
+BK0093,1984,J.D. Salinger,Reference,1994,2023-08-08,10,2023-08-30,5.0
+BK0080,The Great Gatsby,George  Orwell,Biography,1990,2023-08-08,10,2023-08-23,2.0
+BK0119,1984,George  Orwell,Fiction,2004,2023-08-08,10,2023-08-18,4.0
+BK0128,Pride and Prejudice,J.R.R. Tolkien,Poetry,1952,2023-08-08,11,2023-08-27,4.0
+BK0081,Fahrenheit 451,william Golding,Historical Fiction,1972,2023-08-09,9,2023-08-25,2.0
+BK0075,Animal Farm,George Orwell,Poetry,1960,2023-08-09,10,2023-09-19,4.0
+BK0086,Brave New World,Harper Lee,Mystery,1975,2023-08-09,10,2023-09-20,3.0
+BK0060,Animal Farm,F. Scott  Fitzgerald,Fiction,1982,2023-08-10,11,2023-09-11,1.0
+BK0159,Pride and Prejudice,J.R.R. Tolkien,Mystery,1968,2023-08-10,11,2023-09-11,5.0
+BK0157,To Kill a Mockingbird,Ray  Bradbury,Historical Fiction,1981,2023-08-11,11,2023-08-20,2.0
+BK0026,Lord of the Flies,Jane   Austen,Science Fiction,1995,2023-08-11,10,2023-09-13,4.0
+BK0197,The Great Gatsby,Harper Lee,Historical Fiction,2016,2023-08-11,12,2023-09-24,4.0
+BK0107,The Great Gatsby,J.D. Salinger,Poetry,1992,2023-08-11,9,2023-09-24,1.0
+BK0048,Fahrenheit 451,Jane   Austen,Fiction,1987,2023-08-11,11,2023-08-21,4.0
+BK0027,The Catcher in the Rye,J.D. Salinger,Reference,2000,2023-08-12,12,2023-09-07,2.0
+BK0192,Animal Farm,william Golding,Poetry,2012,2023-08-12,11,2023-08-28,3.0
+BK0160,Brave New World,J.R.R. Tolkien,Mystery,1970,2023-08-12,11,2023-08-28,2.0
+BK0098,Brave New World,Aldous HUXLEY,Historical Fiction,2009,2023-08-12,11,2023-09-01,5.0
+BK0161,The Hobbit,Harper Lee,Historical Fiction,1959,2023-08-13,12,2023-08-30,3.0
+BK0070,1984,Ray  Bradbury,Mystery,1988,2023-08-13,12,2023-09-26,1.0
+BK0095,The Great Gatsby,J.R.R. Tolkien,Science Fiction,2012,2023-08-13,9,2023-09-04,1.0
+BK0033,The Catcher in the Rye,william Golding,Fiction,1986,2023-08-13,12,,1.0
+BK0109,Pride and Prejudice,George  Orwell,Biography,2023,2023-08-13,9,,3.0
+BK0065,To Kill a Mockingbird,J.D. Salinger,Historical Fiction,2018,2023-08-13,10,2023-09-19,2.0
+BK0171,Fahrenheit 451,Jane   Austen,Historical Fiction,2017,2023-08-13,12,2023-09-26,3.0
+BK0032,Pride and Prejudice,George Orwell,Reference,2003,2023-08-13,9,2023-08-26,2.0
+BK0085,The Hobbit,Aldous HUXLEY,Fiction,1950,2023-08-13,11,2023-09-12,4.0
+BK0084,Animal Farm,Aldous HUXLEY,Science Fiction,2019,2023-08-13,12,2023-09-16,4.0
+BK0114,Pride and Prejudice,J.R.R. Tolkien,Fiction,1954,2023-08-13,12,2023-09-10,3.0
+BK0085,Pride and Prejudice,Aldous HUXLEY,Mystery,2017,2023-08-13,12,2023-09-03,4.0
+BK0103,The Catcher in the Rye,Ray  Bradbury,Reference,2003,2023-08-13,9,,5.0
+BK0063,To Kill a Mockingbird,George  Orwell,Historical Fiction,1984,2023-08-14,9,2023-08-30,4.0
+BK0051,Brave New World,Aldous HUXLEY,Mystery,2000,2023-08-14,10,2023-09-06,3.0
+BK0119,To Kill a Mockingbird,F. Scott  Fitzgerald,Mystery,1965,2023-08-14,9,2023-09-24,3.0
+BK0151,Fahrenheit 451,F. Scott  Fitzgerald,Science Fiction,2003,2023-08-14,10,2023-09-18,1.0
+BK0070,The Great Gatsby,Jane   Austen,Non-Fiction,1982,2023-08-14,9,2023-09-16,1.0
+BK0120,Lord of the Flies,George  Orwell,Biography,1966,2023-08-15,9,2023-08-23,2.0
+BK0006,The Catcher in the Rye,Aldous HUXLEY,Fiction,1971,2023-08-15,11,2023-09-13,1.0
+BK0019,Fahrenheit 451,Jane   Austen,Poetry,1957,2023-08-15,10,2023-09-15,3.0
+BK0063,1984,George Orwell,Mystery,2014,2023-08-15,12,2023-08-27,2.0
+BK0049,Fahrenheit 451,F. Scott  Fitzgerald,Non-Fiction,1957,2023-08-15,12,2023-09-16,1.0
+BK0025,Pride and Prejudice,F. Scott  Fitzgerald,Science Fiction,1986,2023-08-15,9,,3.0
+BK0163,Pride and Prejudice,F. Scott  Fitzgerald,Science Fiction,1956,2023-08-16,10,2023-09-14,3.0
+BK0200,Brave New World,william Golding,Historical Fiction,2008,2023-08-16,9,2023-09-10,5.0
+BK0083,Lord of the Flies,George Orwell,Science Fiction,1953,2023-08-17,12,2023-09-20,
+BK0102,The Great Gatsby,George Orwell,Non-Fiction,1997,2023-08-17,11,2023-09-07,5.0
+,To Kill a Mockingbird,F. Scott  Fitzgerald,Science Fiction,2006,2023-08-17,10,2023-09-24,2.0
+BK0147,The Hobbit,Aldous HUXLEY,Science Fiction,1983,2023-08-17,11,2023-09-24,1.0
+BK0047,Fahrenheit 451,Harper Lee,Mystery,2010,2023-08-17,11,,4.0
+BK0021,Pride and Prejudice,william Golding,Historical Fiction,1981,2023-08-17,12,2023-09-04,5.0
+BK0003,The Hobbit,J.D. Salinger,Mystery,1959,2023-08-17,12,2023-09-25,1.0
+BK0190,The Hobbit,J.R.R. Tolkien,Reference,1966,2023-08-18,10,2023-09-27,4.0
+BK0094,Fahrenheit 451,william Golding,Fiction,1971,2023-08-18,12,2023-08-28,3.0
+BK0028,The Catcher in the Rye,Harper Lee,Non-Fiction,1974,2023-08-18,10,,3.0
+BK0117,Fahrenheit 451,Harper Lee,Mystery,2008,2023-08-18,12,,4.0
+BK0130,Brave New World,J.D. Salinger,Fiction,1977,2023-08-19,10,2023-08-31,1.0
+BK0166,The Catcher in the Rye,F. Scott  Fitzgerald,Historical Fiction,1987,2023-08-19,11,,3.0
+BK0049,The Great Gatsby,Jane   Austen,Science Fiction,1954,2023-08-20,9,2023-09-19,5.0
+BK0010,The Hobbit,F. Scott  Fitzgerald,Science Fiction,2010,2023-08-20,11,2023-09-27,2.0
+BK0147,The Great Gatsby,J.D. Salinger,Poetry,2003,2023-08-20,12,2023-09-01,4.0
+BK0012,The Great Gatsby,J.R.R. Tolkien,Historical Fiction,2012,2023-08-20,11,2023-08-30,5.0
+BK0158,Fahrenheit 451,George Orwell,Science Fiction,1981,2023-08-20,12,2023-09-02,4.0
+BK0109,The Hobbit,George Orwell,Poetry,1961,2023-08-20,12,2023-09-06,1.0
+BK0084,1984,Ray  Bradbury,Mystery,1970,2023-08-20,9,2023-09-08,2.0
+BK0053,1984,Aldous HUXLEY,Reference,1993,2023-08-20,11,,4.0
+BK0106,Animal Farm,william Golding,Poetry,1953,2023-08-21,12,2023-09-16,3.0
+BK0118,To Kill a Mockingbird,Ray  Bradbury,Poetry,2015,2023-08-21,11,2023-10-03,5.0
+BK0148,To Kill a Mockingbird,George  Orwell,Non-Fiction,1986,2023-08-21,12,2023-10-03,2.0
+BK0037,The Catcher in the Rye,F. Scott  Fitzgerald,Historical Fiction,2009,2023-08-22,10,2023-09-15,1.0
+BK0051,Pride and Prejudice,J.D. Salinger,Mystery,1955,2023-08-22,11,,1.0
+BK0026,1984,Ray  Bradbury,Mystery,1988,2023-08-22,10,2023-09-27,3.0
+BK0007,The Great Gatsby,F. Scott  Fitzgerald,Biography,2002,2023-08-22,10,2023-10-04,4.0
+BK0090,Pride and Prejudice,Ray  Bradbury,Historical Fiction,2009,2023-08-22,11,2023-09-22,5.0
+BK0149,The Hobbit,Harper Lee,Reference,1999,2023-08-22,10,2023-09-16,3.0
+BK0189,Lord of the Flies,Jane   Austen,Poetry,1978,2023-08-22,10,2023-09-20,1.0
+BK0043,Animal Farm,J.R.R. Tolkien,Reference,1987,2023-08-22,11,2023-09-01,5.0
+BK0017,Lord of the Flies,Ray  Bradbury,Historical Fiction,2022,2023-08-23,11,2023-09-09,4.0
+,1984,F. Scott  Fitzgerald,Mystery,1984,2023-08-23,11,2023-10-04,4.0
+BK0129,Brave New World,william Golding,Mystery,1979,2023-08-23,11,,3.0
+BK0004,The Hobbit,George  Orwell,Historical Fiction,2018,2023-08-23,10,2023-09-06,3.0
+BK0184,Brave New World,George Orwell,Science Fiction,1978,2023-08-24,9,,2.0
+BK0184,Lord of the Flies,Harper Lee,Poetry,1955,2023-08-25,11,2023-09-15,2.0
+BK0117,The Hobbit,J.D. Salinger,Biography,2014,2023-08-25,11,2023-09-17,5.0
+BK0136,Pride and Prejudice,Ray  Bradbury,Historical Fiction,2018,2023-08-25,9,2023-09-15,3.0
+BK0068,Brave New World,Aldous HUXLEY,Science Fiction,2015,2023-08-25,10,2023-10-05,5.0
+BK0080,Brave New World,Aldous HUXLEY,Mystery,1968,2023-08-25,9,2023-09-22,4.0
+BK0109,The Great Gatsby,Aldous HUXLEY,Biography,1964,2023-08-25,12,2023-10-04,3.0
+BK0166,Brave New World,Jane   Austen,Non-Fiction,1962,2023-08-26,9,2023-09-10,4.0
+BK0003,Brave New World,J.D. Salinger,Science Fiction,1985,2023-08-26,11,2023-09-10,3.0
+BK0086,The Great Gatsby,J.D. Salinger,Reference,1982,2023-08-26,9,2023-09-17,5.0
+BK0045,Animal Farm,J.R.R. Tolkien,Reference,1962,2023-08-26,11,2023-09-29,4.0
+BK0141,1984,Ray  Bradbury,Fiction,2015,2023-08-26,9,2023-09-21,2.0
+BK0044,Animal Farm,George Orwell,Biography,1962,2023-08-27,10,2023-09-26,1.0
+BK0113,The Hobbit,Jane   Austen,Science Fiction,1977,2023-08-27,11,2023-09-24,
+BK0091,Pride and Prejudice,George  Orwell,Mystery,2023,2023-08-27,11,2023-09-29,5.0
+BK0118,Lord of the Flies,william Golding,Non-Fiction,1954,2023-08-28,12,2023-09-15,1.0
+BK0184,Pride and Prejudice,Ray  Bradbury,Biography,2005,2023-08-28,10,2023-10-08,4.0
+BK0142,The Hobbit,Ray  Bradbury,Biography,1953,2023-08-28,9,2023-10-07,4.0
+BK0069,The Hobbit,J.D. Salinger,Biography,1998,2023-08-28,10,2023-09-07,4.0
+BK0067,Brave New World,George  Orwell,Science Fiction,1996,2023-08-28,10,2023-09-06,2.0
+BK0076,Fahrenheit 451,Aldous HUXLEY,Poetry,2016,2023-08-28,11,,5.0
+BK0172,1984,Harper Lee,Poetry,2019,2023-08-29,11,2023-09-13,2.0
+BK0110,The Hobbit,George  Orwell,Mystery,1966,2023-08-29,12,2023-09-26,3.0
+BK0113,Animal Farm,Ray  Bradbury,Biography,2013,2023-08-29,12,2023-09-23,4.0
+BK0021,Animal Farm,J.R.R. Tolkien,Science Fiction,1979,2023-08-30,11,2023-10-04,4.0
+BK0161,Fahrenheit 451,George  Orwell,Science Fiction,1981,2023-08-30,9,,1.0
+BK0189,The Great Gatsby,william Golding,Poetry,2000,2023-08-30,9,2023-10-06,5.0
+BK0025,To Kill a Mockingbird,J.R.R. Tolkien,Historical Fiction,1968,2023-08-30,10,2023-09-14,1.0
+BK0132,Animal Farm,F. Scott  Fitzgerald,Mystery,1979,2023-08-31,9,2023-09-15,
+BK0128,Brave New World,George  Orwell,Reference,2006,2023-08-31,11,2023-10-06,4.0
+BK0118,Fahrenheit 451,F. Scott  Fitzgerald,Biography,1966,2023-08-31,11,2023-09-30,3.0
+BK0165,Pride and Prejudice,Harper Lee,Poetry,2011,2023-08-31,10,2023-09-26,1.0
+BK0039,The Catcher in the Rye,Jane   Austen,Reference,2011,2023-08-31,12,,5.0
+BK0094,1984,Ray  Bradbury,Historical Fiction,1995,2023-08-31,10,2023-10-12,5.0
+BK0154,Pride and Prejudice,Ray  Bradbury,Reference,1954,2023-08-31,9,2023-09-08,1.0
+BK0157,The Catcher in the Rye,J.D. Salinger,Historical Fiction,1959,2023-09-01,10,2023-09-09,2.0
+BK0145,Lord of the Flies,J.R.R. Tolkien,Fiction,1974,2023-09-01,9,,1.0
+BK0056,Brave New World,Aldous HUXLEY,Non-Fiction,2023,2023-09-01,12,2023-09-27,
+BK0054,Pride and Prejudice,J.R.R. Tolkien,Historical Fiction,1993,2023-09-01,11,2023-09-16,1.0
+BK0189,The Hobbit,George  Orwell,Reference,1975,2023-09-01,13,2023-09-28,3.0
+BK0093,To Kill a Mockingbird,George Orwell,Fiction,1973,2023-09-01,11,2023-09-09,1.0
+BK0186,Animal Farm,william Golding,Fiction,1993,2023-09-01,10,2023-09-17,1.0
+BK0109,1984,J.R.R. Tolkien,Mystery,2015,2023-09-03,11,2023-09-19,2.0
+BK0192,To Kill a Mockingbird,George  Orwell,Biography,1958,2023-09-03,9,2023-09-30,2.0
+BK0200,Pride and Prejudice,william Golding,Reference,1969,2023-09-04,11,2023-10-04,3.0
+BK0115,Lord of the Flies,Harper Lee,Fiction,1998,2023-09-04,11,2023-10-11,1.0
+BK0172,Animal Farm,Aldous HUXLEY,Poetry,1973,2023-09-04,11,2023-09-30,2.0
+BK0075,Animal Farm,J.R.R. Tolkien,Mystery,1971,2023-09-05,9,2023-10-03,2.0
+BK0191,Pride and Prejudice,George Orwell,Mystery,1997,2023-09-05,9,2023-10-09,1.0
+BK0032,Lord of the Flies,Jane   Austen,Reference,2001,2023-09-05,11,2023-10-18,4.0
+BK0200,Fahrenheit 451,J.R.R. Tolkien,Non-Fiction,2023,2023-09-05,10,2023-10-02,4.0
+BK0176,Brave New World,Jane   Austen,Poetry,1956,2023-09-06,10,2023-09-24,1.0
+BK0116,The Great Gatsby,George Orwell,Biography,1993,2023-09-06,12,2023-10-08,2.0
+BK0164,Animal Farm,Harper Lee,Fiction,1977,2023-09-06,10,2023-09-28,5.0
+BK0037,The Catcher in the Rye,J.R.R. Tolkien,Reference,2020,2023-09-06,11,2023-10-03,2.0
+,Lord of the Flies,J.D. Salinger,Poetry,1976,2023-09-06,12,2023-10-03,1.0
+BK0028,The Catcher in the Rye,J.D. Salinger,Science Fiction,1979,2023-09-07,9,,1.0
+BK0160,The Hobbit,F. Scott  Fitzgerald,Poetry,1978,2023-09-07,12,2023-09-26,5.0
+BK0140,The Great Gatsby,Ray  Bradbury,Biography,2014,2023-09-07,11,,2.0
+BK0196,Lord of the Flies,Harper Lee,Biography,2015,2023-09-07,10,2023-10-13,4.0
+BK0163,Lord of the Flies,Ray  Bradbury,Mystery,1975,2023-09-07,11,2023-09-16,3.0
+BK0055,Pride and Prejudice,George Orwell,Non-Fiction,1962,2023-09-08,9,2023-10-12,4.0
+BK0084,Pride and Prejudice,william Golding,Fiction,1966,2023-09-08,11,2023-09-16,1.0
+BK0058,Brave New World,F. Scott  Fitzgerald,Mystery,2006,2023-09-08,11,2023-09-27,1.0
+BK0183,The Great Gatsby,F. Scott  Fitzgerald,Fiction,2002,2023-09-08,11,2023-09-28,1.0
+BK0043,Pride and Prejudice,J.R.R. Tolkien,Mystery,2010,2023-09-09,9,2023-09-20,3.0
+BK0009,Fahrenheit 451,Aldous HUXLEY,Historical Fiction,1977,2023-09-09,11,2023-10-01,1.0
+BK0022,The Catcher in the Rye,F. Scott  Fitzgerald,Mystery,2012,2023-09-09,9,2023-09-21,4.0
+BK0093,Brave New World,Aldous HUXLEY,Poetry,1975,2023-09-09,11,2023-10-05,4.0
+BK0145,1984,Harper Lee,Poetry,1961,2023-09-09,10,2023-09-30,2.0
+BK0101,Lord of the Flies,George  Orwell,Poetry,1986,2023-09-09,11,2023-10-09,1.0
+BK0012,Brave New World,william Golding,Fiction,1975,2023-09-09,10,2023-10-20,5.0
+BK0063,The Catcher in the Rye,George  Orwell,Non-Fiction,1972,2023-09-09,12,2023-10-15,5.0
+BK0053,To Kill a Mockingbird,Jane   Austen,Science Fiction,1980,2023-09-09,10,2023-10-01,5.0
+BK0181,Animal Farm,william Golding,Poetry,1959,2023-09-09,12,2023-10-09,3.0
+BK0082,The Hobbit,Ray  Bradbury,Fiction,1961,2023-09-09,12,2023-10-15,1.0
+BK0154,Pride and Prejudice,Aldous HUXLEY,Historical Fiction,1998,2023-09-10,9,2023-10-14,3.0
+BK0036,Pride and Prejudice,Harper Lee,Mystery,2015,2023-09-11,11,2023-09-22,5.0
+BK0097,Pride and Prejudice,Ray  Bradbury,Non-Fiction,2021,2023-09-11,12,2023-10-17,1.0
+BK0190,Pride and Prejudice,Harper Lee,Fiction,2002,2023-09-12,9,2023-10-05,
+BK0127,Brave New World,J.R.R. Tolkien,Biography,1988,2023-09-12,12,,1.0
+BK0144,Brave New World,Jane   Austen,Mystery,2011,2023-09-12,10,2023-09-19,1.0
+BK0037,The Catcher in the Rye,George  Orwell,Historical Fiction,1993,2023-09-12,10,2023-09-19,4.0
+BK0153,Fahrenheit 451,william Golding,Poetry,1959,2023-09-12,12,2023-10-02,4.0
+BK0166,Pride and Prejudice,Aldous HUXLEY,Fiction,2017,2023-09-13,12,2023-10-11,1.0
+BK0199,Fahrenheit 451,F. Scott  Fitzgerald,Mystery,2001,2023-09-13,10,2023-09-22,3.0
+BK0196,The Hobbit,J.D. Salinger,Reference,2008,2023-09-13,9,2023-09-23,1.0
+BK0075,The Hobbit,Ray  Bradbury,Biography,1952,2023-09-13,9,2023-09-21,2.0
+BK0173,The Hobbit,George Orwell,Fiction,1966,2023-09-13,12,2023-10-01,4.0
+BK0041,The Great Gatsby,F. Scott  Fitzgerald,Non-Fiction,1959,2023-09-13,9,,1.0
+BK0021,Pride and Prejudice,Ray  Bradbury,Non-Fiction,1996,2023-09-14,11,2023-10-16,4.0
+BK0195,The Great Gatsby,George  Orwell,Reference,1995,2023-09-14,10,2023-10-08,5.0
+BK0002,To Kill a Mockingbird,william Golding,Mystery,1952,2023-09-14,12,2023-10-13,2.0
+BK0039,Pride and Prejudice,George Orwell,Science Fiction,2016,2023-09-14,9,2023-10-08,3.0
+BK0149,To Kill a Mockingbird,Aldous HUXLEY,Biography,1969,2023-09-15,10,2023-10-10,5.0
+BK0143,1984,Aldous HUXLEY,Poetry,1965,2023-09-15,11,,3.0
+,The Hobbit,william Golding,Biography,1962,2023-09-15,11,2023-10-04,4.0
+BK0123,The Great Gatsby,J.R.R. Tolkien,Biography,1986,2023-09-16,9,2023-09-27,3.0
+BK0143,Lord of the Flies,Jane   Austen,Poetry,2022,2023-09-16,9,,4.0
+BK0145,The Great Gatsby,Jane   Austen,Science Fiction,2020,2023-09-16,9,2023-10-05,2.0
+BK0018,Pride and Prejudice,F. Scott  Fitzgerald,Science Fiction,1970,2023-09-17,10,2023-10-11,2.0
+BK0015,The Great Gatsby,william Golding,Science Fiction,2017,2023-09-17,12,2023-10-30,5.0
+BK0051,The Hobbit,J.R.R. Tolkien,Poetry,2002,2023-09-17,10,2023-10-22,3.0
+BK0172,Animal Farm,Jane   Austen,Historical Fiction,2017,2023-09-17,12,2023-10-08,5.0
+BK0116,The Great Gatsby,Ray  Bradbury,Non-Fiction,1997,2023-09-17,11,2023-10-05,2.0
+BK0186,Lord of the Flies,Harper Lee,Reference,2021,2023-09-17,10,2023-10-19,4.0
+BK0140,Pride and Prejudice,Harper Lee,Reference,2017,2023-09-18,11,2023-10-29,4.0
+BK0131,Brave New World,Harper Lee,Reference,2013,2023-09-18,10,2023-10-10,2.0
+BK0104,Brave New World,Harper Lee,Non-Fiction,1998,2023-09-18,11,2023-10-17,2.0
+BK0162,Lord of the Flies,william Golding,Non-Fiction,2007,2023-09-18,11,2023-09-27,1.0
+BK0104,The Great Gatsby,George  Orwell,Historical Fiction,1980,2023-09-18,9,2023-10-06,1.0
+BK0198,1984,George  Orwell,Fiction,2004,2023-09-19,10,2023-10-01,3.0
+BK0017,Fahrenheit 451,George Orwell,Science Fiction,2005,2023-09-19,13,2023-10-13,2.0
+BK0132,The Hobbit,Jane   Austen,Fiction,2010,2023-09-19,10,2023-10-06,2.0
+BK0069,To Kill a Mockingbird,J.D. Salinger,Fiction,1978,2023-09-20,12,2023-10-28,5.0
+BK0145,Brave New World,J.R.R. Tolkien,Poetry,1995,2023-09-20,10,,5.0
+BK0090,To Kill a Mockingbird,F. Scott  Fitzgerald,Mystery,2008,2023-09-21,10,2023-10-01,5.0
+BK0117,Animal Farm,J.D. Salinger,Historical Fiction,1977,2023-09-21,11,,
+BK0065,To Kill a Mockingbird,George Orwell,Poetry,1992,2023-09-21,11,2023-10-09,5.0
+BK0185,The Great Gatsby,George  Orwell,Biography,1964,2023-09-21,12,2023-11-02,2.0
+BK0181,1984,william Golding,Fiction,1969,2023-09-21,10,2023-09-30,5.0
+BK0182,To Kill a Mockingbird,George  Orwell,Fiction,1992,2023-09-22,12,2023-10-06,3.0
+BK0058,Lord of the Flies,Aldous HUXLEY,Mystery,1990,2023-09-22,12,2023-10-08,2.0
+BK0035,Animal Farm,Ray  Bradbury,Biography,1965,2023-09-22,10,2023-09-30,5.0
+BK0193,Brave New World,william Golding,Non-Fiction,2009,2023-09-23,9,2023-10-11,3.0
+BK0086,To Kill a Mockingbird,Jane   Austen,Historical Fiction,2004,2023-09-23,10,2023-11-06,1.0
+BK0015,1984,J.R.R. Tolkien,Historical Fiction,2016,2023-09-23,12,2023-11-03,4.0
+BK0092,Brave New World,william Golding,Science Fiction,1967,2023-09-23,11,,1.0
+BK0147,Fahrenheit 451,Jane   Austen,Historical Fiction,1974,2023-09-24,9,2023-10-10,3.0
+BK0044,The Hobbit,Aldous HUXLEY,Science Fiction,2011,2023-09-24,11,2023-10-14,2.0
+BK0092,Brave New World,F. Scott  Fitzgerald,Biography,1974,2023-09-24,12,2023-10-04,2.0
+BK0095,Animal Farm,George  Orwell,Mystery,1994,2023-09-25,9,2023-10-31,5.0
+BK0018,The Great Gatsby,Jane   Austen,Science Fiction,2001,2023-09-25,12,2023-10-25,1.0
+BK0090,To Kill a Mockingbird,George Orwell,Fiction,2014,2023-09-25,10,,4.0
+BK0013,Pride and Prejudice,Harper Lee,Non-Fiction,1962,2023-09-25,12,2023-11-07,2.0
+BK0105,Brave New World,Aldous HUXLEY,Science Fiction,2019,2023-09-25,10,2023-10-28,1.0
+BK0154,The Catcher in the Rye,Aldous HUXLEY,Science Fiction,1965,2023-09-26,9,2023-10-23,5.0
+BK0147,The Catcher in the Rye,J.D. Salinger,Non-Fiction,1982,2023-09-26,10,2023-10-19,1.0
+BK0092,Animal Farm,william Golding,Mystery,2011,2023-09-26,12,2023-10-17,2.0
+BK0111,1984,George  Orwell,Fiction,2010,2023-09-26,10,2023-10-10,
+BK0115,The Hobbit,william Golding,Mystery,1982,2023-09-26,9,2023-10-23,5.0
+BK0100,The Hobbit,Jane   Austen,Poetry,1986,2023-09-26,9,2023-10-25,2.0
+BK0069,Pride and Prejudice,J.R.R. Tolkien,Historical Fiction,2004,2023-09-27,10,2023-10-28,2.0
+BK0042,The Catcher in the Rye,J.R.R. Tolkien,Biography,2017,2023-09-27,11,2023-10-05,3.0
+BK0039,1984,Harper Lee,Biography,1992,2023-09-27,11,2023-10-04,1.0
+BK0035,1984,George  Orwell,Science Fiction,1953,2023-09-27,12,2023-10-24,
+BK0154,The Great Gatsby,william Golding,Fiction,2010,2023-09-27,11,2023-11-06,2.0
+BK0096,To Kill a Mockingbird,Jane   Austen,Non-Fiction,1998,2023-09-27,10,2023-11-04,4.0
+BK0092,Brave New World,J.R.R. Tolkien,Fiction,1968,2023-09-27,11,2023-10-07,3.0
+BK0111,Brave New World,George Orwell,Non-Fiction,1960,2023-09-27,9,2023-11-08,2.0
+,The Hobbit,F. Scott  Fitzgerald,Science Fiction,1969,2023-09-27,11,2023-10-29,5.0
+BK0133,Brave New World,Ray  Bradbury,Historical Fiction,2007,2023-09-28,10,2023-10-17,
+BK0197,Fahrenheit 451,George Orwell,Mystery,2019,2023-09-28,12,2023-11-09,2.0
+BK0168,Fahrenheit 451,william Golding,Biography,1990,2023-09-28,12,2023-10-15,1.0
+BK0038,Pride and Prejudice,J.R.R. Tolkien,Non-Fiction,1966,2023-09-28,10,,1.0
+BK0089,The Great Gatsby,Jane   Austen,Historical Fiction,1973,2023-09-28,11,,3.0
+BK0002,The Hobbit,J.D. Salinger,Poetry,2006,2023-09-28,10,2023-10-12,5.0
+BK0076,The Hobbit,Ray  Bradbury,Reference,1989,2023-09-28,9,2023-10-13,2.0
+BK0082,The Catcher in the Rye,Aldous HUXLEY,Historical Fiction,1996,2023-09-28,12,2023-10-20,5.0
+BK0101,The Catcher in the Rye,J.R.R. Tolkien,Reference,1985,2023-09-28,12,2023-10-17,5.0
+BK0008,Fahrenheit 451,Jane   Austen,Reference,2004,2023-09-28,12,2023-10-15,3.0
+BK0132,1984,J.D. Salinger,Poetry,1966,2023-09-29,12,2023-10-22,
+BK0008,Fahrenheit 451,J.R.R. Tolkien,Science Fiction,2017,2023-09-29,11,2023-11-12,5.0
+BK0115,To Kill a Mockingbird,william Golding,Science Fiction,1978,2023-09-29,11,2023-10-13,4.0
+BK0095,Fahrenheit 451,Aldous HUXLEY,Non-Fiction,2005,2023-09-29,12,2023-10-14,3.0
+BK0149,1984,J.R.R. Tolkien,Poetry,2022,2023-09-29,9,2023-10-22,2.0
+BK0025,The Catcher in the Rye,Aldous HUXLEY,Poetry,2003,2023-09-29,9,2023-10-13,5.0
+BK0188,To Kill a Mockingbird,George  Orwell,Reference,1966,2023-09-29,11,2023-11-09,3.0
+BK0187,1984,william Golding,Fiction,1993,2023-09-30,9,2023-10-22,4.0
+BK0147,Brave New World,Aldous HUXLEY,Reference,1958,2023-09-30,11,2023-10-29,5.0
+BK0167,The Catcher in the Rye,George  Orwell,Fiction,1961,2023-09-30,11,2023-11-05,2.0
+BK0190,Animal Farm,Aldous HUXLEY,Reference,1980,2023-09-30,12,,3.0
+BK0152,Lord of the Flies,Ray  Bradbury,Historical Fiction,2000,2023-09-30,9,2023-10-15,5.0
+BK0106,The Hobbit,F. Scott  Fitzgerald,Reference,1976,2023-09-30,9,,4.0
+BK0005,Pride and Prejudice,F. Scott  Fitzgerald,Historical Fiction,2016,2023-09-30,12,2023-10-17,1.0
+BK0059,Animal Farm,Harper Lee,Historical Fiction,1960,2023-10-01,11,2023-10-21,2.0
+BK0013,The Great Gatsby,Aldous HUXLEY,Reference,2003,2023-10-01,11,2023-10-21,4.0
+BK0146,Brave New World,F. Scott  Fitzgerald,Biography,2022,2023-10-01,10,2023-10-13,4.0
+BK0130,Fahrenheit 451,George Orwell,Biography,2019,2023-10-01,12,2023-10-27,1.0
+BK0117,The Catcher in the Rye,Harper Lee,Reference,2005,2023-10-01,9,2023-11-05,1.0
+BK0033,1984,J.R.R. Tolkien,Fiction,1977,2023-10-01,10,2023-10-16,2.0
+BK0064,Pride and Prejudice,George  Orwell,Fiction,1968,2023-10-01,12,2023-10-26,3.0
+BK0136,The Great Gatsby,J.R.R. Tolkien,Biography,1957,2023-10-01,9,2023-10-11,3.0
+BK0063,Animal Farm,F. Scott  Fitzgerald,Biography,1996,2023-10-01,10,2023-10-14,5.0
+BK0009,Brave New World,Ray  Bradbury,Fiction,2007,2023-10-02,12,2023-10-28,4.0
+BK0180,Pride and Prejudice,J.R.R. Tolkien,Historical Fiction,2014,2023-10-02,11,2023-11-04,2.0
+BK0192,Animal Farm,F. Scott  Fitzgerald,Science Fiction,1978,2023-10-02,12,2023-11-02,5.0
+BK0015,The Hobbit,Jane   Austen,Non-Fiction,1963,2023-10-02,12,2023-11-08,3.0
+BK0004,1984,J.D. Salinger,Biography,1956,2023-10-03,9,2023-10-26,1.0
+BK0011,The Great Gatsby,F. Scott  Fitzgerald,Poetry,1980,2023-10-03,10,2023-10-18,1.0
+BK0058,Pride and Prejudice,F. Scott  Fitzgerald,Biography,1950,2023-10-03,12,2023-10-11,
+BK0030,1984,George  Orwell,Poetry,1957,2023-10-03,9,2023-10-30,1.0
+BK0177,Fahrenheit 451,J.R.R. Tolkien,Science Fiction,2018,2023-10-04,12,2023-10-18,3.0
+BK0138,Animal Farm,George Orwell,Reference,2012,2023-10-04,9,2023-10-12,5.0
+BK0129,1984,Harper Lee,Reference,1962,2023-10-04,9,,2.0
+BK0143,Lord of the Flies,George  Orwell,Fiction,2008,2023-10-04,11,,5.0
+BK0177,1984,George Orwell,Fiction,2000,2023-10-04,10,2023-10-26,1.0
+BK0152,The Great Gatsby,George Orwell,Science Fiction,2002,2023-10-05,13,2023-11-10,5.0
+BK0113,The Hobbit,J.D. Salinger,Poetry,2002,2023-10-05,9,2023-11-14,2.0
+BK0113,1984,F. Scott  Fitzgerald,Poetry,1984,2023-10-05,12,2023-10-15,4.0
+BK0150,To Kill a Mockingbird,Jane   Austen,Science Fiction,2002,2023-10-05,12,2023-11-03,1.0
+BK0099,1984,william Golding,Fiction,2013,2023-10-06,12,2023-11-17,3.0
+BK0065,Lord of the Flies,Ray  Bradbury,Fiction,1996,2023-10-06,10,2023-10-28,1.0
+BK0192,Pride and Prejudice,Jane   Austen,Historical Fiction,1970,2023-10-06,10,2023-11-12,4.0
+BK0019,The Hobbit,J.R.R. Tolkien,Historical Fiction,2003,2023-10-06,12,2023-11-09,4.0
+BK0081,Lord of the Flies,George Orwell,Mystery,2018,2023-10-07,11,2023-10-17,4.0
+BK0053,To Kill a Mockingbird,Harper Lee,Biography,1962,2023-10-07,12,,5.0
+BK0126,Lord of the Flies,Harper Lee,Non-Fiction,1988,2023-10-07,9,2023-11-17,4.0
+,Lord of the Flies,George  Orwell,Non-Fiction,2000,2023-10-08,11,2023-11-15,5.0
+BK0179,The Catcher in the Rye,J.D. Salinger,Science Fiction,1953,2023-10-08,11,2023-11-03,4.0
+BK0101,Pride and Prejudice,George  Orwell,Reference,2012,2023-10-09,10,2023-10-28,2.0
+BK0185,1984,George Orwell,Historical Fiction,1971,2023-10-09,11,2023-11-05,5.0
+BK0042,Pride and Prejudice,Ray  Bradbury,Historical Fiction,1994,2023-10-09,12,2023-10-23,3.0
+BK0133,The Catcher in the Rye,F. Scott  Fitzgerald,Biography,1974,2023-10-10,9,2023-11-22,2.0
+BK0175,Animal Farm,F. Scott  Fitzgerald,Science Fiction,1982,2023-10-10,12,2023-10-29,3.0
+BK0160,Pride and Prejudice,Harper Lee,Reference,1966,2023-10-10,9,2023-11-11,2.0
+BK0147,Animal Farm,George  Orwell,Reference,1977,2023-10-10,12,2023-11-23,2.0
+BK0109,The Catcher in the Rye,J.R.R. Tolkien,Mystery,2021,2023-10-10,12,2023-11-07,2.0
+BK0185,The Catcher in the Rye,George Orwell,Historical Fiction,1951,2023-10-10,12,2023-11-14,4.0
+BK0046,The Catcher in the Rye,J.D. Salinger,Biography,1974,2023-10-11,9,2023-11-04,1.0
+,Brave New World,Harper Lee,Mystery,2011,2023-10-11,11,2023-11-04,4.0
+BK0138,Lord of the Flies,Jane   Austen,Fiction,1974,2023-10-11,11,2023-11-06,2.0
+BK0089,Lord of the Flies,Jane   Austen,Poetry,1960,2023-10-11,11,2023-11-04,1.0
+BK0001,Brave New World,william Golding,Poetry,2002,2023-10-11,11,2023-11-04,4.0
+BK0173,The Hobbit,Harper Lee,Fiction,2022,2023-10-11,9,2023-11-15,2.0
+BK0090,1984,Aldous HUXLEY,Mystery,2017,2023-10-11,12,2023-11-07,1.0
+BK0145,Pride and Prejudice,william Golding,Mystery,1983,2023-10-12,12,2023-11-21,5.0
+BK0071,The Great Gatsby,Aldous HUXLEY,Mystery,1982,2023-10-12,9,2023-11-16,5.0
+BK0185,To Kill a Mockingbird,F. Scott  Fitzgerald,Historical Fiction,1977,2023-10-12,9,2023-11-01,1.0
+BK0028,1984,George  Orwell,Science Fiction,1958,2023-10-12,9,2023-11-12,1.0
+BK0099,The Catcher in the Rye,F. Scott  Fitzgerald,Historical Fiction,2022,2023-10-13,12,2023-11-02,2.0
+BK0146,1984,George  Orwell,Historical Fiction,1952,2023-10-13,12,2023-11-02,3.0
+BK0129,Pride and Prejudice,Harper Lee,Mystery,1968,2023-10-13,12,2023-10-25,1.0
+BK0058,Animal Farm,J.D. Salinger,Mystery,1983,2023-10-14,9,2023-11-02,4.0
+BK0104,To Kill a Mockingbird,J.R.R. Tolkien,Fiction,1986,2023-10-14,10,2023-11-02,5.0
+BK0147,To Kill a Mockingbird,william Golding,Non-Fiction,1961,2023-10-14,9,2023-11-22,1.0
+BK0190,Lord of the Flies,F. Scott  Fitzgerald,Poetry,1968,2023-10-14,12,2023-11-13,4.0
+BK0185,Fahrenheit 451,Ray  Bradbury,Mystery,1988,2023-10-14,10,2023-11-16,3.0
+BK0177,Lord of the Flies,Harper Lee,Biography,1991,2023-10-15,11,2023-11-24,1.0
+BK0093,1984,George Orwell,Reference,2020,2023-10-15,12,2023-11-13,4.0
+BK0029,To Kill a Mockingbird,Harper Lee,Historical Fiction,1982,2023-10-15,11,2023-11-11,2.0
+BK0046,Lord of the Flies,Aldous HUXLEY,Science Fiction,1997,2023-10-15,12,2023-11-16,1.0
+BK0005,The Catcher in the Rye,J.R.R. Tolkien,Historical Fiction,1992,2023-10-15,11,2023-10-25,1.0
+BK0162,The Catcher in the Rye,George  Orwell,Non-Fiction,1994,2023-10-15,12,2023-11-10,3.0
+BK0015,The Hobbit,Harper Lee,Science Fiction,1981,2023-10-15,12,2023-11-27,4.0
+BK0066,Pride and Prejudice,Aldous HUXLEY,Biography,1957,2023-10-16,11,2023-11-24,5.0
+BK0062,Brave New World,George  Orwell,Poetry,1950,2023-10-16,9,2023-11-22,3.0
+BK0147,Lord of the Flies,F. Scott  Fitzgerald,Biography,2020,2023-10-16,12,2023-10-24,5.0
+BK0060,Brave New World,J.R.R. Tolkien,Poetry,1977,2023-10-16,10,2023-11-17,3.0
+BK0053,Fahrenheit 451,J.R.R. Tolkien,Reference,2000,2023-10-16,10,2023-11-12,2.0
+BK0145,Animal Farm,Jane   Austen,Biography,1995,2023-10-17,12,2023-10-25,4.0
+BK0088,Pride and Prejudice,F. Scott  Fitzgerald,Poetry,2017,2023-10-18,9,2023-11-14,5.0
+BK0088,Brave New World,George Orwell,Mystery,1991,2023-10-18,10,2023-11-11,4.0
+BK0052,Animal Farm,william Golding,Mystery,2015,2023-10-18,10,2023-11-15,3.0
+BK0129,Brave New World,Aldous HUXLEY,Reference,2010,2023-10-18,10,2023-11-26,1.0
+BK0015,1984,George  Orwell,Historical Fiction,2013,2023-10-19,9,2023-11-19,4.0
+BK0045,Pride and Prejudice,J.R.R. Tolkien,Non-Fiction,1970,2023-10-20,11,2023-11-19,4.0
+BK0015,The Great Gatsby,George  Orwell,Mystery,2008,2023-10-20,12,2023-10-30,5.0
+BK0109,Brave New World,Ray  Bradbury,Mystery,1975,2023-10-20,9,2023-11-17,2.0
+BK0106,Animal Farm,J.D. Salinger,Historical Fiction,1950,2023-10-20,10,2023-11-02,1.0
+BK0069,To Kill a Mockingbird,F. Scott  Fitzgerald,Fiction,1985,2023-10-20,12,2023-11-10,5.0
+BK0029,The Great Gatsby,J.D. Salinger,Science Fiction,1974,2023-10-20,9,2023-12-02,2.0
+BK0050,The Hobbit,Harper Lee,Historical Fiction,2023,2023-10-20,11,2023-11-13,3.0
+BK0083,1984,J.D. Salinger,Non-Fiction,2012,2023-10-20,12,2023-10-27,3.0
+BK0067,The Hobbit,F. Scott  Fitzgerald,Reference,1990,2023-10-21,12,2023-11-13,1.0
+BK0131,1984,George Orwell,Non-Fiction,1983,2023-10-21,9,2023-11-09,3.0
+BK0127,Lord of the Flies,J.R.R. Tolkien,Historical Fiction,1976,2023-10-21,11,2023-11-07,2.0
+BK0053,The Hobbit,George Orwell,Mystery,1985,2023-10-21,11,2023-11-30,1.0
+BK0122,The Great Gatsby,Aldous HUXLEY,Fiction,1971,2023-10-22,9,,1.0
+BK0104,To Kill a Mockingbird,George  Orwell,Poetry,1962,2023-10-22,12,2023-11-17,4.0
+BK0113,Pride and Prejudice,Ray  Bradbury,Biography,1990,2023-10-22,9,,5.0
+BK0086,Fahrenheit 451,Aldous HUXLEY,Science Fiction,2005,2023-10-22,11,2023-11-18,5.0
+BK0188,The Catcher in the Rye,Aldous HUXLEY,Science Fiction,1993,2023-10-22,10,2023-11-10,4.0
+BK0028,To Kill a Mockingbird,Jane   Austen,Historical Fiction,1963,2023-10-22,9,2023-11-24,
+BK0117,1984,J.R.R. Tolkien,Fiction,1971,2023-10-23,10,2023-11-24,2.0
+BK0190,Lord of the Flies,Ray  Bradbury,Mystery,1977,2023-10-23,12,2023-11-02,4.0
+BK0061,Pride and Prejudice,F. Scott  Fitzgerald,Historical Fiction,2011,2023-10-23,11,2023-11-09,2.0
+BK0175,The Great Gatsby,J.R.R. Tolkien,Mystery,1972,2023-10-23,9,2023-11-22,1.0
+BK0163,The Catcher in the Rye,J.R.R. Tolkien,Science Fiction,1978,2023-10-23,11,2023-11-25,1.0
+BK0001,The Hobbit,Harper Lee,Fiction,1983,2023-10-23,10,2023-11-28,3.0
+BK0099,The Great Gatsby,Harper Lee,Mystery,1966,2023-10-23,12,2023-11-21,2.0
+BK0013,To Kill a Mockingbird,F. Scott  Fitzgerald,Historical Fiction,1990,2023-10-24,11,2023-11-24,5.0
+,The Catcher in the Rye,Harper Lee,Science Fiction,1987,2023-10-24,11,2023-10-31,5.0
+BK0017,The Catcher in the Rye,Jane   Austen,Mystery,2001,2023-10-25,10,2023-11-22,5.0
+BK0152,The Hobbit,Jane   Austen,Historical Fiction,1971,2023-10-25,12,2023-12-04,2.0
+BK0151,The Great Gatsby,Aldous HUXLEY,Biography,1999,2023-10-25,9,2023-11-09,5.0
+BK0142,The Catcher in the Rye,Aldous HUXLEY,Mystery,2005,2023-10-26,12,2023-11-09,4.0
+BK0192,Brave New World,william Golding,Biography,1975,2023-10-26,11,2023-11-15,
+BK0167,The Hobbit,Jane   Austen,Fiction,1990,2023-10-26,9,2023-12-06,
+BK0052,The Hobbit,F. Scott  Fitzgerald,Poetry,1997,2023-10-26,10,2023-11-18,2.0
+BK0160,Fahrenheit 451,Harper Lee,Reference,1964,2023-10-26,12,2023-11-28,1.0
+BK0100,Lord of the Flies,william Golding,Reference,1981,2023-10-27,9,2023-11-18,1.0
+BK0104,To Kill a Mockingbird,Harper Lee,Mystery,1995,2023-10-27,9,2023-12-04,3.0
+BK0195,1984,J.D. Salinger,Poetry,1996,2023-10-27,11,,2.0
+BK0016,1984,F. Scott  Fitzgerald,Historical Fiction,2002,2023-10-28,10,,1.0
+BK0191,1984,Harper Lee,Science Fiction,1959,2023-10-28,10,2023-11-18,5.0
+BK0029,Fahrenheit 451,Ray  Bradbury,Biography,1957,2023-10-28,12,2023-11-08,2.0
+BK0144,1984,Harper Lee,Fiction,1958,2023-10-28,9,2023-12-03,5.0
+BK0186,Brave New World,F. Scott  Fitzgerald,Science Fiction,1978,2023-10-28,11,2023-11-12,2.0
+BK0128,Pride and Prejudice,william Golding,Reference,1996,2023-10-28,10,2023-11-21,1.0
+BK0146,The Catcher in the Rye,George  Orwell,Fiction,1990,2023-10-28,10,2023-11-05,2.0
+BK0120,Animal Farm,J.D. Salinger,Science Fiction,1969,2023-10-29,12,2023-11-17,4.0
+BK0054,Animal Farm,Aldous HUXLEY,Mystery,1998,2023-10-29,10,2023-11-24,5.0
+BK0088,Brave New World,Aldous HUXLEY,Biography,2005,2023-10-29,12,2023-12-04,4.0
+BK0181,Pride and Prejudice,Aldous HUXLEY,Historical Fiction,1987,2023-10-29,11,2023-12-07,4.0
+BK0134,Fahrenheit 451,Aldous HUXLEY,Reference,1966,2023-10-29,9,2023-11-06,5.0
+BK0095,Pride and Prejudice,Harper Lee,Historical Fiction,1990,2023-10-29,10,2023-11-24,3.0
+BK0054,To Kill a Mockingbird,J.R.R. Tolkien,Fiction,1984,2023-10-29,12,2023-11-29,2.0
+BK0027,1984,George  Orwell,Poetry,1981,2023-10-30,10,2023-11-09,5.0
+BK0092,The Catcher in the Rye,Jane   Austen,Historical Fiction,1974,2023-10-30,11,2023-11-09,1.0
+BK0051,The Catcher in the Rye,Jane   Austen,Mystery,1954,2023-10-30,11,2023-11-28,4.0
+BK0001,The Hobbit,J.R.R. Tolkien,Mystery,2019,2023-10-30,10,,2.0
+BK0035,To Kill a Mockingbird,Aldous HUXLEY,Reference,2011,2023-10-31,12,2023-11-19,5.0
+BK0135,Pride and Prejudice,william Golding,Non-Fiction,2003,2023-10-31,12,2023-11-12,3.0
+BK0026,Fahrenheit 451,Jane   Austen,Mystery,2011,2023-11-01,12,,2.0
+BK0067,The Great Gatsby,Jane   Austen,Historical Fiction,1998,2023-11-01,10,2023-11-26,2.0
+BK0144,Animal Farm,F. Scott  Fitzgerald,Reference,1994,2023-11-01,10,2023-12-03,5.0
+BK0060,The Catcher in the Rye,George  Orwell,Biography,1956,2023-11-01,9,2023-11-25,2.0
+,Brave New World,Aldous HUXLEY,Biography,1970,2023-11-01,10,,
+BK0034,To Kill a Mockingbird,J.D. Salinger,Mystery,1977,2023-11-02,11,2023-12-04,4.0
+BK0111,To Kill a Mockingbird,Ray  Bradbury,Biography,2002,2023-11-02,9,2023-11-10,3.0
+BK0120,Brave New World,F. Scott  Fitzgerald,Mystery,2003,2023-11-02,13,2023-11-12,3.0
+BK0168,Brave New World,Aldous HUXLEY,Fiction,2007,2023-11-02,12,2023-12-16,1.0
+BK0188,The Hobbit,Ray  Bradbury,Biography,2016,2023-11-02,12,2023-11-18,2.0
+BK0128,Brave New World,william Golding,Historical Fiction,1996,2023-11-02,12,2023-11-24,4.0
+BK0028,Lord of the Flies,william Golding,Non-Fiction,1994,2023-11-02,10,,1.0
+BK0030,Animal Farm,George  Orwell,Poetry,1953,2023-11-02,10,2023-12-03,3.0
+BK0012,Brave New World,George Orwell,Historical Fiction,1985,2023-11-02,11,2023-11-23,3.0
+BK0019,Pride and Prejudice,J.D. Salinger,Reference,1966,2023-11-03,12,2023-12-06,5.0
+BK0012,Brave New World,J.R.R. Tolkien,Fiction,1988,2023-11-03,11,2023-11-15,4.0
+BK0022,Fahrenheit 451,Jane   Austen,Mystery,2007,2023-11-03,12,2023-11-28,1.0
+BK0121,Lord of the Flies,J.D. Salinger,Science Fiction,2023,2023-11-03,12,2023-12-08,4.0
+BK0148,The Catcher in the Rye,George Orwell,Historical Fiction,2018,2023-11-03,11,2023-12-09,5.0
+BK0126,1984,J.R.R. Tolkien,Mystery,1990,2023-11-04,10,2023-11-30,4.0
+BK0144,Animal Farm,Ray  Bradbury,Historical Fiction,1991,2023-11-04,12,2023-12-05,1.0
+BK0101,1984,Ray  Bradbury,Non-Fiction,1987,2023-11-04,12,2023-11-28,2.0
+BK0190,Lord of the Flies,F. Scott  Fitzgerald,Biography,1977,2023-11-04,12,2023-12-14,4.0
+BK0063,The Catcher in the Rye,J.R.R. Tolkien,Science Fiction,2010,2023-11-04,11,2023-12-10,2.0
+BK0050,Brave New World,Aldous HUXLEY,Fiction,1952,2023-11-04,11,2023-11-26,3.0
+BK0081,Lord of the Flies,Jane   Austen,Reference,1962,2023-11-04,10,,5.0
+BK0014,The Hobbit,George Orwell,Non-Fiction,1966,2023-11-04,11,2023-11-28,3.0
+BK0007,To Kill a Mockingbird,Aldous HUXLEY,Mystery,2002,2023-11-05,11,2023-11-12,1.0
+BK0061,The Hobbit,Harper Lee,Mystery,1978,2023-11-06,9,2023-12-04,3.0
+BK0070,Brave New World,George Orwell,Reference,1977,2023-11-06,11,,3.0
+BK0114,Animal Farm,F. Scott  Fitzgerald,Historical Fiction,1958,2023-11-06,9,2023-11-29,3.0
+BK0173,Fahrenheit 451,George  Orwell,Historical Fiction,2019,2023-11-07,10,2023-11-18,3.0
+BK0163,Brave New World,Aldous HUXLEY,Poetry,2021,2023-11-07,10,2023-12-04,4.0
+BK0012,Lord of the Flies,Aldous HUXLEY,Biography,2006,2023-11-07,10,2023-11-14,3.0
+BK0192,To Kill a Mockingbird,George Orwell,Science Fiction,1968,2023-11-07,12,2023-11-16,3.0
+BK0184,The Catcher in the Rye,Ray  Bradbury,Reference,2001,2023-11-07,9,2023-12-10,4.0
+BK0111,Brave New World,George Orwell,Historical Fiction,1975,2023-11-07,11,,
+BK0006,The Great Gatsby,J.R.R. Tolkien,Reference,2011,2023-11-07,11,2023-12-09,2.0
+BK0151,Fahrenheit 451,Ray  Bradbury,Historical Fiction,1957,2023-11-08,10,2023-12-15,4.0
+BK0079,The Hobbit,Aldous HUXLEY,Fiction,1996,2023-11-08,12,2023-12-20,5.0
+BK0113,The Catcher in the Rye,J.R.R. Tolkien,Biography,1961,2023-11-08,9,2023-12-18,3.0
+BK0131,The Great Gatsby,william Golding,Poetry,1958,2023-11-09,11,,2.0
+BK0175,The Catcher in the Rye,George  Orwell,Biography,2003,2023-11-09,12,2023-12-11,3.0
+BK0009,1984,George  Orwell,Fiction,1990,2023-11-09,11,,3.0
+BK0086,Brave New World,George Orwell,Biography,2001,2023-11-09,9,2023-11-24,1.0
+BK0062,Pride and Prejudice,Ray  Bradbury,Non-Fiction,2012,2023-11-10,11,2023-12-15,1.0
+,Fahrenheit 451,F. Scott  Fitzgerald,Poetry,2017,2023-11-10,11,2023-12-24,3.0
+BK0172,Fahrenheit 451,J.D. Salinger,Non-Fiction,1999,2023-11-10,12,2023-12-18,2.0
+BK0179,The Great Gatsby,George Orwell,Poetry,1996,2023-11-11,11,2023-11-22,4.0
+BK0190,Brave New World,Harper Lee,Biography,1950,2023-11-11,11,2023-12-18,2.0
+BK0128,Brave New World,J.D. Salinger,Mystery,1983,2023-11-11,11,2023-11-24,3.0
+BK0109,The Catcher in the Rye,Aldous HUXLEY,Biography,2022,2023-11-11,9,2023-12-17,1.0
+BK0122,The Great Gatsby,F. Scott  Fitzgerald,Poetry,1967,2023-11-11,11,2023-12-12,3.0
+BK0079,The Hobbit,Jane   Austen,Reference,1961,2023-11-12,11,,4.0
+BK0075,Brave New World,F. Scott  Fitzgerald,Poetry,1956,2023-11-12,10,2023-11-24,4.0
+BK0118,The Catcher in the Rye,F. Scott  Fitzgerald,Non-Fiction,1951,2023-11-12,12,2023-12-07,3.0
+BK0028,Brave New World,J.D. Salinger,Fiction,2016,2023-11-12,12,2023-12-17,3.0
+BK0040,Pride and Prejudice,Jane   Austen,Biography,1962,2023-11-12,11,2023-12-07,4.0
+BK0070,The Great Gatsby,George  Orwell,Mystery,1963,2023-11-12,12,2023-12-15,2.0
+BK0199,1984,J.D. Salinger,Poetry,1982,2023-11-12,9,2023-12-15,5.0
+BK0122,Pride and Prejudice,william Golding,Mystery,1966,2023-11-12,11,2023-11-26,5.0
+BK0188,The Great Gatsby,George  Orwell,Science Fiction,2002,2023-11-12,11,2023-11-29,2.0
+BK0042,The Hobbit,Ray  Bradbury,Science Fiction,1987,2023-11-12,9,2023-12-25,2.0
+BK0155,Lord of the Flies,Ray  Bradbury,Reference,1985,2023-11-12,9,2023-12-22,3.0
+BK0167,1984,J.D. Salinger,Mystery,1972,2023-11-13,9,2023-11-21,5.0
+BK0126,Animal Farm,Jane   Austen,Science Fiction,1978,2023-11-13,10,2023-11-25,1.0
+BK0180,Animal Farm,J.D. Salinger,Historical Fiction,2010,2023-11-14,10,2023-12-14,3.0
+BK0086,The Hobbit,Ray  Bradbury,Poetry,1962,2023-11-14,9,2023-11-21,4.0
+BK0094,Lord of the Flies,J.D. Salinger,Mystery,1989,2023-11-14,12,2023-11-29,2.0
+BK0066,The Great Gatsby,J.D. Salinger,Non-Fiction,1967,2023-11-14,9,2023-11-30,3.0
+BK0175,Lord of the Flies,Aldous HUXLEY,Poetry,1957,2023-11-15,9,2023-12-25,3.0
+BK0029,The Hobbit,J.R.R. Tolkien,Historical Fiction,1970,2023-11-15,12,,1.0
+BK0047,Animal Farm,F. Scott  Fitzgerald,Historical Fiction,1955,2023-11-15,10,2023-12-12,2.0
+BK0099,Animal Farm,Ray  Bradbury,Poetry,1985,2023-11-15,10,2023-12-26,2.0
+BK0141,1984,Aldous HUXLEY,Science Fiction,1955,2023-11-16,13,2023-12-04,4.0
+BK0112,The Hobbit,George Orwell,Non-Fiction,1951,2023-11-16,12,2023-11-25,2.0
+BK0178,The Catcher in the Rye,Aldous HUXLEY,Poetry,2015,2023-11-16,12,2023-12-15,2.0
+BK0130,Lord of the Flies,Aldous HUXLEY,Mystery,1988,2023-11-16,10,2023-11-29,2.0
+BK0014,1984,Ray  Bradbury,Historical Fiction,1959,2023-11-16,10,2023-12-23,2.0
+BK0155,To Kill a Mockingbird,william Golding,Fiction,1996,2023-11-16,12,2023-12-04,3.0
+BK0004,The Catcher in the Rye,Ray  Bradbury,Poetry,1993,2023-11-16,9,2023-12-02,4.0
+BK0069,The Great Gatsby,william Golding,Historical Fiction,1972,2023-11-17,10,2023-12-22,
+BK0121,1984,Harper Lee,Non-Fiction,1972,2023-11-17,10,2023-12-15,3.0
+BK0124,Animal Farm,George  Orwell,Poetry,1983,2023-11-17,9,2023-12-12,4.0
+BK0061,Brave New World,J.R.R. Tolkien,Science Fiction,1990,2023-11-18,12,2023-12-30,5.0
+BK0068,Fahrenheit 451,J.D. Salinger,Poetry,1998,2023-11-18,12,2024-01-01,2.0
+BK0162,To Kill a Mockingbird,J.R.R. Tolkien,Poetry,1964,2023-11-18,10,,5.0
+BK0001,The Great Gatsby,Aldous HUXLEY,Poetry,1957,2023-11-18,9,2023-12-02,1.0
+BK0160,Pride and Prejudice,George  Orwell,Fiction,2005,2023-11-18,12,2023-11-29,3.0
+BK0191,Animal Farm,william Golding,Mystery,2017,2023-11-18,11,2023-12-07,
+BK0038,Brave New World,F. Scott  Fitzgerald,Biography,2006,2023-11-18,10,2023-12-28,5.0
+BK0105,The Catcher in the Rye,Jane   Austen,Mystery,2023,2023-11-19,12,2023-12-30,4.0
+BK0059,To Kill a Mockingbird,J.R.R. Tolkien,Poetry,1996,2023-11-19,10,2023-12-20,3.0
+BK0128,To Kill a Mockingbird,william Golding,Historical Fiction,2009,2023-11-19,11,,1.0
+BK0122,Animal Farm,George Orwell,Non-Fiction,1977,2023-11-19,12,2023-12-06,5.0
+BK0049,The Catcher in the Rye,George Orwell,Fiction,1976,2023-11-20,11,2023-12-27,4.0
+BK0036,The Hobbit,Aldous HUXLEY,Science Fiction,1983,2023-11-20,10,2023-12-03,1.0
+BK0129,The Catcher in the Rye,J.R.R. Tolkien,Mystery,1967,2023-11-20,9,2023-12-22,2.0
+BK0092,The Great Gatsby,George Orwell,Historical Fiction,2020,2023-11-20,12,2023-12-11,1.0
+BK0043,The Catcher in the Rye,Jane   Austen,Historical Fiction,1979,2023-11-20,11,2023-12-30,1.0
+BK0090,Pride and Prejudice,J.D. Salinger,Mystery,1995,2023-11-20,11,2023-12-31,4.0
+BK0194,To Kill a Mockingbird,J.R.R. Tolkien,Science Fiction,2007,2023-11-20,12,2023-12-08,4.0
+BK0065,The Hobbit,Harper Lee,Biography,1965,2023-11-20,10,2023-12-10,5.0
+BK0067,Animal Farm,Jane   Austen,Reference,1994,2023-11-20,9,2023-12-13,5.0
+BK0151,1984,Ray  Bradbury,Historical Fiction,1966,2023-11-20,11,2023-11-30,1.0
+BK0198,1984,Jane   Austen,Poetry,2001,2023-11-21,9,2023-12-03,
+BK0139,Fahrenheit 451,Jane   Austen,Non-Fiction,1984,2023-11-21,9,2023-11-28,
+BK0039,Lord of the Flies,J.D. Salinger,Science Fiction,2003,2023-11-21,11,2023-12-09,3.0
+BK0090,Animal Farm,Ray  Bradbury,Non-Fiction,2006,2023-11-21,12,,3.0
+BK0146,The Hobbit,Harper Lee,Fiction,2016,2023-11-21,10,2023-12-26,5.0
+BK0144,Animal Farm,F. Scott  Fitzgerald,Non-Fiction,1996,2023-11-21,12,2023-12-27,
+BK0101,Fahrenheit 451,Ray  Bradbury,Reference,1989,2023-11-22,12,2023-12-09,2.0
+,The Hobbit,Ray  Bradbury,Historical Fiction,1961,2023-11-22,9,,1.0
+BK0096,Animal Farm,Ray  Bradbury,Biography,2008,2023-11-22,12,2023-12-20,1.0
+BK0092,Fahrenheit 451,Jane   Austen,Historical Fiction,1991,2023-11-22,11,2023-12-11,5.0
+BK0061,Pride and Prejudice,Jane   Austen,Science Fiction,1955,2023-11-23,9,2023-12-14,3.0
+BK0147,Fahrenheit 451,George Orwell,Biography,1992,2023-11-23,10,2023-12-15,4.0
+BK0009,The Great Gatsby,George  Orwell,Poetry,1984,2023-11-23,10,2023-12-20,1.0
+BK0152,The Great Gatsby,william Golding,Historical Fiction,1988,2023-11-23,10,2023-12-09,5.0
+BK0125,Brave New World,Jane   Austen,Mystery,1992,2023-11-23,9,2023-12-03,1.0
+BK0019,Fahrenheit 451,J.R.R. Tolkien,Poetry,2016,2023-11-23,10,2023-12-14,5.0
+BK0123,Pride and Prejudice,Ray  Bradbury,Mystery,1955,2023-11-23,10,2024-01-06,3.0
+BK0012,The Hobbit,Ray  Bradbury,Science Fiction,2000,2023-11-24,9,,5.0
+BK0117,The Hobbit,J.R.R. Tolkien,Historical Fiction,2018,2023-11-24,10,,3.0
+BK0015,Fahrenheit 451,Jane   Austen,Mystery,1973,2023-11-24,10,2023-12-19,5.0
+BK0173,The Catcher in the Rye,Ray  Bradbury,Science Fiction,1988,2023-11-24,12,2024-01-05,4.0
+BK0058,1984,George Orwell,Biography,1992,2023-11-24,11,2023-12-07,3.0
+,Brave New World,George Orwell,Non-Fiction,1978,2023-11-24,10,2023-12-28,1.0
+BK0189,Animal Farm,J.D. Salinger,Historical Fiction,1992,2023-11-24,10,2024-01-06,2.0
+BK0061,The Catcher in the Rye,Harper Lee,Mystery,1985,2023-11-25,10,2023-12-19,1.0
+BK0158,Pride and Prejudice,George Orwell,Biography,1956,2023-11-25,10,,1.0
+BK0145,To Kill a Mockingbird,Harper Lee,Science Fiction,2017,2023-11-26,9,2023-12-25,5.0
+BK0099,The Catcher in the Rye,Aldous HUXLEY,Reference,2003,2023-11-26,9,2023-12-31,5.0
+BK0193,Brave New World,J.R.R. Tolkien,Fiction,2015,2023-11-27,11,2023-12-18,1.0
+BK0025,The Catcher in the Rye,Jane   Austen,Biography,2018,2023-11-27,9,2023-12-14,3.0
+BK0187,The Hobbit,Aldous HUXLEY,Mystery,1974,2023-11-27,10,2023-12-16,1.0
+BK0140,The Catcher in the Rye,George Orwell,Reference,1977,2023-11-27,9,,5.0
+BK0008,Brave New World,Jane   Austen,Reference,1956,2023-11-27,10,2024-01-08,1.0
+BK0166,Brave New World,J.D. Salinger,Biography,1999,2023-11-27,10,2024-01-03,1.0
+BK0124,Animal Farm,J.D. Salinger,Mystery,1987,2023-11-27,9,2024-01-10,5.0
+BK0034,Animal Farm,George  Orwell,Non-Fiction,1995,2023-11-27,11,2023-12-26,4.0
+BK0179,Pride and Prejudice,J.D. Salinger,Non-Fiction,1987,2023-11-27,9,2023-12-05,5.0
+BK0170,Animal Farm,william Golding,Poetry,2023,2023-11-27,11,,3.0
+BK0137,The Catcher in the Rye,Ray  Bradbury,Non-Fiction,1955,2023-11-28,12,2023-12-25,3.0
+BK0151,1984,George Orwell,Non-Fiction,1983,2023-11-28,11,2023-12-06,1.0
+BK0195,To Kill a Mockingbird,william Golding,Fiction,1970,2023-11-28,10,2023-12-28,4.0
+BK0129,The Great Gatsby,J.R.R. Tolkien,Poetry,2008,2023-11-28,9,2024-01-09,1.0
+BK0001,Lord of the Flies,Ray  Bradbury,Historical Fiction,1997,2023-11-28,12,2024-01-04,2.0
+BK0164,The Catcher in the Rye,George  Orwell,Fiction,1979,2023-11-29,11,2024-01-10,5.0
+BK0056,1984,Aldous HUXLEY,Poetry,1964,2023-11-30,12,2023-12-16,1.0
+BK0012,The Great Gatsby,George Orwell,Fiction,1950,2023-11-30,10,,1.0
+BK0161,The Great Gatsby,F. Scott  Fitzgerald,Non-Fiction,2023,2023-11-30,12,2023-12-29,1.0
+BK0191,Brave New World,George Orwell,Science Fiction,2018,2023-11-30,11,2023-12-09,2.0
+BK0008,Fahrenheit 451,F. Scott  Fitzgerald,Fiction,1971,2023-11-30,10,2023-12-12,1.0
+BK0190,The Great Gatsby,Jane   Austen,Science Fiction,1986,2023-11-30,10,2023-12-07,1.0
+BK0061,Animal Farm,Jane   Austen,Science Fiction,1999,2023-11-30,12,,3.0
+BK0147,Pride and Prejudice,George Orwell,Biography,2002,2023-11-30,9,2023-12-24,5.0
+BK0045,The Great Gatsby,william Golding,Fiction,1958,2023-11-30,11,2024-01-10,5.0
+BK0008,Lord of the Flies,J.R.R. Tolkien,Science Fiction,1997,2023-12-01,11,2024-01-07,1.0
+BK0082,Brave New World,Jane   Austen,Historical Fiction,2023,2023-12-01,12,,3.0
+BK0130,Pride and Prejudice,Harper Lee,Reference,1995,2023-12-01,10,2024-01-03,4.0
+BK0051,Brave New World,Aldous HUXLEY,Reference,1965,2023-12-02,10,2023-12-20,3.0
+BK0073,The Great Gatsby,F. Scott  Fitzgerald,Mystery,1996,2023-12-02,12,2024-01-08,2.0
+BK0028,The Great Gatsby,Jane   Austen,Non-Fiction,1966,2023-12-03,12,2024-01-14,5.0
+BK0124,The Great Gatsby,J.D. Salinger,Mystery,1983,2023-12-03,9,2023-12-11,1.0
+BK0126,Fahrenheit 451,Jane   Austen,Poetry,2014,2023-12-03,11,2023-12-24,
+BK0113,The Catcher in the Rye,J.R.R. Tolkien,Science Fiction,1999,2023-12-03,11,2023-12-26,5.0
+BK0051,Brave New World,Harper Lee,Poetry,1971,2023-12-03,11,2024-01-01,4.0
+BK0024,Lord of the Flies,Ray  Bradbury,Poetry,1975,2023-12-03,10,2023-12-27,3.0
+BK0194,Brave New World,J.R.R. Tolkien,Science Fiction,1974,2023-12-03,11,2023-12-11,2.0
+BK0051,To Kill a Mockingbird,Aldous HUXLEY,Non-Fiction,2005,2023-12-03,11,2023-12-11,1.0
+BK0133,Animal Farm,Ray  Bradbury,Poetry,1988,2023-12-04,12,2024-01-13,3.0
+BK0024,1984,Jane   Austen,Poetry,2006,2023-12-04,12,2024-01-12,5.0
+BK0111,Lord of the Flies,J.R.R. Tolkien,Biography,1979,2023-12-05,11,2024-01-12,4.0
+BK0017,Animal Farm,Harper Lee,Mystery,1970,2023-12-05,9,2023-12-18,3.0
+BK0161,To Kill a Mockingbird,william Golding,Historical Fiction,2018,2023-12-05,11,2023-12-26,1.0
+BK0164,The Great Gatsby,Ray  Bradbury,Reference,1964,2023-12-05,10,,4.0
+BK0002,The Hobbit,J.R.R. Tolkien,Fiction,1978,2023-12-05,11,2023-12-28,3.0
+BK0069,The Hobbit,J.R.R. Tolkien,Historical Fiction,1990,2023-12-05,12,,4.0
+BK0197,Brave New World,George  Orwell,Mystery,2017,2023-12-05,11,,1.0
+BK0100,Pride and Prejudice,william Golding,Mystery,1973,2023-12-05,12,2023-12-30,1.0
+BK0066,The Catcher in the Rye,Harper Lee,Science Fiction,2004,2023-12-06,10,2024-01-13,5.0
+BK0034,The Great Gatsby,F. Scott  Fitzgerald,Mystery,1954,2023-12-06,13,2024-01-13,2.0
+BK0054,Pride and Prejudice,Harper Lee,Mystery,1973,2023-12-06,10,2023-12-31,4.0
+BK0081,Animal Farm,william Golding,Poetry,1968,2023-12-06,12,2023-12-20,5.0
+BK0093,1984,Jane   Austen,Historical Fiction,1955,2023-12-06,11,2024-01-14,3.0
+BK0057,Brave New World,George Orwell,Non-Fiction,1960,2023-12-06,12,2023-12-24,5.0
+BK0081,The Great Gatsby,Ray  Bradbury,Reference,1971,2023-12-06,12,2024-01-05,1.0
+BK0041,Fahrenheit 451,Harper Lee,Reference,2014,2023-12-07,9,2024-01-15,1.0
+BK0180,The Great Gatsby,Ray  Bradbury,Science Fiction,1953,2023-12-07,12,2024-01-02,5.0
+BK0011,Brave New World,Aldous HUXLEY,Non-Fiction,1999,2023-12-07,12,2024-01-03,3.0
+BK0190,To Kill a Mockingbird,william Golding,Non-Fiction,1952,2023-12-07,10,2024-01-16,4.0
+BK0009,Animal Farm,william Golding,Biography,1965,2023-12-07,12,2024-01-08,5.0
+BK0027,1984,J.R.R. Tolkien,Fiction,2012,2023-12-07,9,2023-12-24,5.0
+BK0055,The Hobbit,George Orwell,Reference,1985,2023-12-08,11,2023-12-23,3.0
+BK0176,The Great Gatsby,F. Scott  Fitzgerald,Science Fiction,2011,2023-12-08,12,2024-01-09,3.0
+BK0154,Animal Farm,william Golding,Science Fiction,1992,2023-12-08,9,2023-12-27,3.0
+,Animal Farm,F. Scott  Fitzgerald,Biography,1970,2023-12-09,12,2023-12-29,2.0
+BK0034,Pride and Prejudice,F. Scott  Fitzgerald,Historical Fiction,1966,2023-12-09,12,2023-12-31,2.0
+BK0069,To Kill a Mockingbird,J.R.R. Tolkien,Non-Fiction,2020,2023-12-09,10,2024-01-04,4.0
+BK0054,Fahrenheit 451,Harper Lee,Non-Fiction,1996,2023-12-09,12,2024-01-09,5.0
+BK0056,The Great Gatsby,J.D. Salinger,Mystery,1973,2023-12-09,9,2023-12-26,5.0
+BK0124,Brave New World,Harper Lee,Fiction,2008,2023-12-09,9,2023-12-22,1.0
+BK0105,Animal Farm,Jane   Austen,Non-Fiction,2018,2023-12-10,12,2024-01-09,4.0
+BK0112,The Great Gatsby,Ray  Bradbury,Reference,1956,2023-12-10,11,2024-01-21,3.0
+BK0183,To Kill a Mockingbird,Jane   Austen,Fiction,1988,2023-12-10,11,2024-01-09,4.0
+BK0170,To Kill a Mockingbird,Harper Lee,Reference,1966,2023-12-10,12,,2.0
+BK0058,Brave New World,George  Orwell,Science Fiction,1994,2023-12-10,9,2023-12-24,1.0
+BK0104,1984,Aldous HUXLEY,Mystery,1985,2023-12-10,9,,2.0
+BK0028,Pride and Prejudice,George  Orwell,Poetry,2020,2023-12-10,10,,5.0
+BK0139,Fahrenheit 451,william Golding,Fiction,1959,2023-12-10,11,2023-12-23,4.0
+BK0176,Fahrenheit 451,J.D. Salinger,Reference,1986,2023-12-10,11,2024-01-14,5.0
+BK0170,To Kill a Mockingbird,George  Orwell,Biography,2000,2023-12-10,9,2023-12-19,2.0
+BK0199,To Kill a Mockingbird,william Golding,Poetry,1966,2023-12-11,12,2024-01-10,4.0
+BK0014,The Great Gatsby,Jane   Austen,Fiction,2016,2023-12-11,12,2023-12-28,5.0
+BK0024,Fahrenheit 451,Aldous HUXLEY,Science Fiction,2007,2023-12-11,12,,1.0
+,Animal Farm,J.D. Salinger,Biography,1983,2023-12-11,9,2024-01-04,4.0
+BK0036,1984,J.D. Salinger,Reference,2015,2023-12-12,9,2024-01-07,3.0
+BK0050,Pride and Prejudice,George  Orwell,Historical Fiction,1976,2023-12-12,11,2023-12-25,1.0
+BK0158,Lord of the Flies,George Orwell,Fiction,1981,2023-12-12,9,2023-12-22,4.0
+BK0030,The Hobbit,Aldous HUXLEY,Mystery,1955,2023-12-12,9,2024-01-25,3.0
+BK0193,Fahrenheit 451,Ray  Bradbury,Non-Fiction,1971,2023-12-12,11,2024-01-14,4.0
+BK0177,1984,Aldous HUXLEY,Biography,1973,2023-12-12,9,2024-01-17,3.0
+BK0142,The Great Gatsby,George Orwell,Historical Fiction,1950,2023-12-13,11,2024-01-04,2.0
+BK0062,Fahrenheit 451,George  Orwell,Fiction,1954,2023-12-13,9,2024-01-12,4.0
+BK0072,To Kill a Mockingbird,Ray  Bradbury,Biography,2022,2023-12-14,10,2024-01-05,
+BK0132,To Kill a Mockingbird,J.R.R. Tolkien,Poetry,2022,2023-12-14,12,2024-01-02,4.0
+BK0164,The Great Gatsby,Harper Lee,Poetry,2001,2023-12-14,12,2024-01-01,3.0
+BK0103,Lord of the Flies,J.D. Salinger,Historical Fiction,1979,2023-12-14,12,2024-01-03,4.0
+BK0060,Lord of the Flies,J.D. Salinger,Reference,2005,2023-12-14,11,2023-12-29,4.0
+BK0161,Animal Farm,william Golding,Historical Fiction,2014,2023-12-14,13,2024-01-07,5.0
+BK0038,Lord of the Flies,Ray  Bradbury,Science Fiction,1952,2023-12-15,11,2024-01-18,5.0
+BK0051,1984,Aldous HUXLEY,Fiction,1960,2023-12-15,12,2024-01-08,2.0
+BK0188,Pride and Prejudice,william Golding,Non-Fiction,1958,2023-12-15,12,2024-01-13,4.0
+,Fahrenheit 451,George Orwell,Science Fiction,2006,2023-12-15,10,2024-01-28,3.0
+BK0162,Lord of the Flies,william Golding,Reference,1980,2023-12-15,9,2024-01-25,
+BK0054,Lord of the Flies,william Golding,Fiction,2009,2023-12-16,9,2023-12-27,2.0
+BK0124,1984,Aldous HUXLEY,Science Fiction,2003,2023-12-16,12,2024-01-16,2.0
+BK0191,Fahrenheit 451,Ray  Bradbury,Mystery,2009,2023-12-16,9,2024-01-29,2.0
+BK0074,The Great Gatsby,Jane   Austen,Poetry,1959,2023-12-16,11,2024-01-23,1.0
+BK0158,The Great Gatsby,william Golding,Science Fiction,1964,2023-12-16,10,2024-01-18,3.0
+BK0101,The Catcher in the Rye,F. Scott  Fitzgerald,Fiction,1957,2023-12-16,12,2024-01-14,4.0
+BK0003,The Great Gatsby,J.D. Salinger,Non-Fiction,1960,2023-12-17,12,2023-12-30,1.0
+BK0160,Animal Farm,william Golding,Fiction,1962,2023-12-17,11,2024-01-25,1.0
+BK0047,Fahrenheit 451,william Golding,Poetry,1978,2023-12-17,12,,5.0
+BK0116,Pride and Prejudice,George  Orwell,Biography,2021,2023-12-17,10,2024-01-18,1.0
+BK0151,Brave New World,Ray  Bradbury,Science Fiction,2019,2023-12-17,9,2024-01-26,5.0
+BK0177,Brave New World,George Orwell,Reference,1964,2023-12-17,12,2024-01-10,
+BK0157,Brave New World,Ray  Bradbury,Science Fiction,1991,2023-12-17,9,2023-12-29,5.0
+BK0127,Animal Farm,F. Scott  Fitzgerald,Fiction,1990,2023-12-18,11,2024-01-19,3.0
+BK0071,The Hobbit,Jane   Austen,Biography,1973,2023-12-18,11,2024-01-07,3.0
+BK0030,The Catcher in the Rye,Aldous HUXLEY,Non-Fiction,1968,2023-12-18,10,2024-01-06,1.0
+BK0164,The Great Gatsby,Ray  Bradbury,Biography,2017,2023-12-18,12,2024-01-19,4.0
+BK0017,Fahrenheit 451,F. Scott  Fitzgerald,Poetry,1995,2023-12-19,11,2024-01-15,5.0
+BK0114,Lord of the Flies,Aldous HUXLEY,Poetry,1976,2023-12-19,9,2024-01-30,
+BK0153,To Kill a Mockingbird,Ray  Bradbury,Fiction,1953,2023-12-19,9,2024-01-30,
+BK0023,1984,Harper Lee,Fiction,1968,2023-12-19,10,2024-01-24,4.0
+BK0006,Animal Farm,J.D. Salinger,Biography,1985,2023-12-20,9,2023-12-29,3.0
+BK0112,Animal Farm,George Orwell,Poetry,1958,2023-12-20,11,2023-12-29,2.0
+BK0083,The Hobbit,F. Scott  Fitzgerald,Science Fiction,1968,2023-12-20,12,2024-01-24,5.0
+BK0190,Fahrenheit 451,Harper Lee,Mystery,1988,2023-12-21,12,2024-01-02,5.0
+BK0058,Pride and Prejudice,Aldous HUXLEY,Biography,1957,2023-12-21,11,2024-01-01,1.0
+BK0103,Fahrenheit 451,Jane   Austen,Biography,1950,2023-12-21,11,2024-01-22,
+BK0116,Lord of the Flies,J.D. Salinger,Mystery,1959,2023-12-21,11,2024-01-10,2.0
+BK0173,1984,J.R.R. Tolkien,Historical Fiction,1969,2023-12-21,10,2024-01-31,1.0
+BK0138,The Catcher in the Rye,william Golding,Reference,2016,2023-12-21,11,2023-12-28,4.0
+BK0095,Pride and Prejudice,J.R.R. Tolkien,Fiction,2006,2023-12-21,12,2023-12-30,3.0
+BK0159,1984,J.D. Salinger,Non-Fiction,2022,2023-12-21,9,2024-01-23,5.0
+BK0134,The Hobbit,J.R.R. Tolkien,Fiction,2000,2023-12-22,9,2024-01-02,5.0
+BK0111,To Kill a Mockingbird,william Golding,Biography,1955,2023-12-22,9,2023-12-31,1.0
+BK0047,To Kill a Mockingbird,George  Orwell,Science Fiction,1976,2023-12-22,10,2024-01-28,1.0
+BK0003,Fahrenheit 451,J.R.R. Tolkien,Poetry,2021,2023-12-22,9,2024-01-09,
+BK0194,Animal Farm,Ray  Bradbury,Mystery,2018,2023-12-22,9,2024-01-30,4.0
+BK0161,Brave New World,F. Scott  Fitzgerald,Mystery,2009,2023-12-22,9,2023-12-31,1.0
+BK0056,The Great Gatsby,F. Scott  Fitzgerald,Poetry,1975,2023-12-23,12,2024-01-30,3.0
+BK0115,Animal Farm,Harper Lee,Biography,2013,2023-12-23,9,,1.0
+BK0053,Lord of the Flies,william Golding,Reference,1985,2023-12-23,11,,2.0
+BK0081,The Hobbit,F. Scott  Fitzgerald,Biography,1972,2023-12-23,12,2024-01-31,4.0
+BK0002,Lord of the Flies,J.D. Salinger,Reference,2002,2023-12-23,9,,4.0
+BK0161,Animal Farm,Ray  Bradbury,Fiction,1952,2023-12-23,12,2023-12-30,4.0
+BK0058,The Catcher in the Rye,George  Orwell,Fiction,1983,2023-12-23,12,2024-01-14,1.0
+BK0107,The Catcher in the Rye,George Orwell,Non-Fiction,1996,2023-12-24,12,2024-02-06,
+BK0005,The Great Gatsby,George  Orwell,Fiction,1981,2023-12-24,9,2024-01-18,4.0
+BK0145,1984,Jane   Austen,Fiction,1953,2023-12-24,9,2024-01-23,4.0
+BK0103,Brave New World,Ray  Bradbury,Mystery,1991,2023-12-24,9,2024-01-18,1.0
+BK0187,To Kill a Mockingbird,Harper Lee,Biography,2017,2023-12-24,10,2024-01-21,4.0
+BK0170,Animal Farm,Jane   Austen,Mystery,2004,2023-12-24,10,2023-12-31,3.0
+BK0136,Brave New World,J.R.R. Tolkien,Fiction,2006,2023-12-24,9,2024-01-31,5.0
+BK0144,The Hobbit,J.D. Salinger,Historical Fiction,1978,2023-12-25,11,2024-01-31,1.0
+BK0192,1984,George Orwell,Mystery,1953,2023-12-25,11,2024-01-01,1.0
+BK0082,Pride and Prejudice,J.D. Salinger,Non-Fiction,2020,2023-12-25,12,2024-01-01,
+BK0113,Pride and Prejudice,Harper Lee,Reference,1956,2023-12-26,10,2024-02-03,2.0
+BK0008,The Hobbit,Jane   Austen,Biography,2023,2023-12-26,11,2024-02-01,2.0
+BK0146,Lord of the Flies,George Orwell,Science Fiction,1974,2023-12-26,9,,2.0
+BK0030,To Kill a Mockingbird,George  Orwell,Fiction,2016,2023-12-26,11,2024-01-07,2.0
+BK0132,1984,william Golding,Reference,2003,2023-12-26,12,2024-02-01,4.0
+BK0137,Brave New World,Harper Lee,Non-Fiction,1963,2023-12-27,11,2024-01-26,1.0
+BK0179,The Hobbit,George Orwell,Reference,1994,2023-12-27,11,2024-01-16,4.0
+BK0189,The Catcher in the Rye,Ray  Bradbury,Poetry,1967,2023-12-27,12,2024-01-04,1.0
+BK0116,Fahrenheit 451,J.R.R. Tolkien,Reference,1982,2023-12-27,12,2024-01-09,3.0
+BK0166,The Catcher in the Rye,Jane   Austen,Fiction,1987,2023-12-27,10,2024-01-05,1.0
+BK0054,The Catcher in the Rye,J.R.R. Tolkien,Fiction,2008,2023-12-27,12,2024-01-22,1.0
+BK0074,Fahrenheit 451,J.D. Salinger,Science Fiction,1999,2023-12-27,11,,3.0
+BK0099,To Kill a Mockingbird,George Orwell,Biography,1989,2023-12-27,11,2024-01-31,3.0
+BK0072,1984,Harper Lee,Science Fiction,1986,2023-12-27,13,2024-01-07,4.0
+BK0111,The Catcher in the Rye,Harper Lee,Biography,2011,2023-12-28,10,2024-01-23,3.0
+BK0093,Pride and Prejudice,J.R.R. Tolkien,Historical Fiction,1984,2023-12-28,10,2024-02-06,5.0
+BK0096,Animal Farm,George  Orwell,Fiction,1971,2023-12-28,11,,3.0
+BK0144,To Kill a Mockingbird,Jane   Austen,Fiction,1964,2023-12-28,10,2024-01-15,5.0
+BK0099,The Catcher in the Rye,Ray  Bradbury,Poetry,2003,2023-12-28,12,2024-01-29,1.0
+BK0082,Animal Farm,Harper Lee,Mystery,2020,2023-12-28,9,2024-01-20,5.0
+BK0003,The Hobbit,George Orwell,Reference,1978,2023-12-29,10,2024-01-22,2.0
+BK0090,Fahrenheit 451,Aldous HUXLEY,Biography,1968,2023-12-29,11,,4.0
+BK0099,Animal Farm,F. Scott  Fitzgerald,Poetry,1960,2023-12-29,12,2024-01-14,1.0
+BK0099,1984,J.D. Salinger,Mystery,1962,2023-12-29,9,2024-01-10,
+BK0182,Brave New World,Aldous HUXLEY,Non-Fiction,2009,2023-12-29,13,2024-01-10,1.0
+BK0047,The Great Gatsby,F. Scott  Fitzgerald,Science Fiction,1968,2023-12-29,11,2024-01-21,4.0
+BK0036,To Kill a Mockingbird,william Golding,Non-Fiction,1977,2023-12-30,11,2024-02-02,2.0
+BK0030,Pride and Prejudice,Jane   Austen,Biography,2009,2023-12-30,12,2024-01-26,2.0
+BK0186,The Catcher in the Rye,Ray  Bradbury,Science Fiction,2006,2023-12-30,11,2024-01-27,5.0
+BK0189,The Great Gatsby,George Orwell,Mystery,1969,2023-12-30,10,2024-01-28,3.0
+BK0198,Lord of the Flies,Aldous HUXLEY,Fiction,2000,2023-12-30,9,,4.0
+BK0160,The Catcher in the Rye,George  Orwell,Non-Fiction,1953,2023-12-30,10,2024-01-28,1.0
+BK0086,Brave New World,william Golding,Biography,1988,2023-12-30,10,2024-02-11,2.0
+BK0187,Lord of the Flies,J.D. Salinger,Historical Fiction,1962,2023-12-31,11,2024-02-07,3.0
+BK0132,The Hobbit,Harper Lee,Mystery,1960,2023-12-31,10,2024-01-15,5.0
+BK0130,Fahrenheit 451,F. Scott  Fitzgerald,Fiction,1983,2023-12-31,9,2024-01-21,1.0
+BK0136,To Kill a Mockingbird,J.R.R. Tolkien,Science Fiction,1991,2024-01-02,12,2024-01-22,2.0
+BK0048,Pride and Prejudice,Aldous HUXLEY,Mystery,1962,2024-01-02,12,2024-01-22,5.0
+BK0178,Lord of the Flies,Ray  Bradbury,Fiction,1954,2024-01-02,12,2024-02-15,3.0
+BK0101,Animal Farm,william Golding,Historical Fiction,1970,2024-01-02,12,2024-01-21,4.0
+BK0164,The Hobbit,Aldous HUXLEY,Non-Fiction,1996,2024-01-02,11,2024-02-03,3.0
+BK0138,Fahrenheit 451,Jane   Austen,Biography,1990,2024-01-03,10,2024-01-27,2.0
+BK0140,The Hobbit,J.D. Salinger,Reference,1959,2024-01-03,10,2024-02-06,4.0
+BK0001,Fahrenheit 451,F. Scott  Fitzgerald,Reference,2014,2024-01-03,11,2024-02-05,3.0
+BK0052,Fahrenheit 451,Jane   Austen,Science Fiction,2010,2024-01-03,10,2024-02-16,5.0
+BK0148,Brave New World,F. Scott  Fitzgerald,Reference,1962,2024-01-03,10,2024-02-04,3.0
+BK0135,Pride and Prejudice,Ray  Bradbury,Non-Fiction,1974,2024-01-03,11,2024-01-26,3.0
+BK0187,The Hobbit,J.R.R. Tolkien,Historical Fiction,1983,2024-01-04,10,2024-02-15,1.0
+BK0104,Brave New World,william Golding,Mystery,2013,2024-01-04,9,2024-02-02,4.0
+BK0111,The Hobbit,Aldous HUXLEY,Mystery,2008,2024-01-04,10,,2.0
+BK0108,Pride and Prejudice,George  Orwell,Historical Fiction,1966,2024-01-05,11,2024-01-27,1.0
+BK0153,Brave New World,George  Orwell,Science Fiction,1951,2024-01-05,11,2024-02-15,1.0
+BK0008,Lord of the Flies,Harper Lee,Reference,1970,2024-01-05,11,2024-02-12,1.0
+BK0165,To Kill a Mockingbird,Aldous HUXLEY,Mystery,1977,2024-01-05,12,2024-02-15,1.0
+BK0194,To Kill a Mockingbird,George Orwell,Non-Fiction,2003,2024-01-05,12,2024-01-18,1.0
+BK0021,The Hobbit,Jane   Austen,Reference,1994,2024-01-06,9,2024-01-18,4.0
+BK0034,1984,George Orwell,Fiction,1986,2024-01-06,10,2024-02-06,5.0
+BK0096,The Catcher in the Rye,Ray  Bradbury,Mystery,1981,2024-01-06,10,2024-01-22,2.0
+BK0118,Pride and Prejudice,Ray  Bradbury,Biography,2012,2024-01-06,10,2024-01-29,5.0
+BK0187,Fahrenheit 451,F. Scott  Fitzgerald,Reference,1956,2024-01-07,10,2024-02-18,1.0
+BK0179,The Hobbit,George Orwell,Mystery,2017,2024-01-07,9,,4.0
+BK0062,Animal Farm,Harper Lee,Science Fiction,1980,2024-01-07,12,,5.0
+BK0023,1984,J.R.R. Tolkien,Non-Fiction,2007,2024-01-07,11,2024-02-20,1.0
+BK0046,Pride and Prejudice,Harper Lee,Poetry,1981,2024-01-07,10,2024-02-14,3.0
+BK0183,Animal Farm,william Golding,Historical Fiction,1983,2024-01-07,12,2024-02-16,2.0
+BK0048,1984,william Golding,Non-Fiction,1952,2024-01-08,10,2024-02-19,3.0
+BK0005,The Great Gatsby,F. Scott  Fitzgerald,Mystery,1995,2024-01-08,10,,1.0
+BK0093,The Hobbit,william Golding,Fiction,2021,2024-01-08,9,2024-02-10,3.0
+BK0033,Fahrenheit 451,Ray  Bradbury,Mystery,1968,2024-01-09,12,,2.0
+BK0118,Lord of the Flies,Aldous HUXLEY,Science Fiction,1989,2024-01-09,11,2024-02-03,4.0
+BK0058,Lord of the Flies,Harper Lee,Reference,2007,2024-01-09,11,2024-02-01,1.0
+BK0190,Lord of the Flies,J.D. Salinger,Poetry,2011,2024-01-10,11,,1.0
+BK0098,1984,Ray  Bradbury,Poetry,1970,2024-01-10,10,2024-02-08,4.0
+BK0039,Pride and Prejudice,George  Orwell,Non-Fiction,2011,2024-01-10,9,2024-01-19,3.0
+BK0096,Lord of the Flies,Aldous HUXLEY,Reference,1965,2024-01-10,11,2024-02-06,1.0
+BK0110,Brave New World,Jane   Austen,Mystery,2014,2024-01-10,9,2024-02-03,5.0
+BK0038,The Hobbit,Jane   Austen,Poetry,1954,2024-01-10,12,2024-01-19,3.0
+BK0092,Lord of the Flies,Jane   Austen,Reference,1958,2024-01-10,9,2024-01-26,1.0
+BK0128,The Great Gatsby,F. Scott  Fitzgerald,Non-Fiction,1986,2024-01-10,9,2024-02-02,4.0
+BK0091,Fahrenheit 451,william Golding,Historical Fiction,1984,2024-01-10,11,2024-02-02,3.0
+BK0174,Fahrenheit 451,F. Scott  Fitzgerald,Reference,1995,2024-01-11,11,,2.0
+BK0074,The Great Gatsby,F. Scott  Fitzgerald,Reference,2004,2024-01-11,11,2024-02-07,3.0
+BK0034,Pride and Prejudice,Aldous HUXLEY,Science Fiction,1973,2024-01-11,11,2024-02-05,3.0
+BK0057,1984,J.D. Salinger,Fiction,1968,2024-01-11,12,2024-02-21,4.0
+BK0089,Lord of the Flies,J.D. Salinger,Science Fiction,1954,2024-01-11,10,2024-01-21,1.0
+BK0053,The Catcher in the Rye,Aldous HUXLEY,Historical Fiction,1998,2024-01-12,10,2024-01-23,2.0
+BK0137,The Great Gatsby,Jane   Austen,Mystery,1952,2024-01-12,12,2024-01-25,
+BK0084,1984,George  Orwell,Fiction,1998,2024-01-12,9,2024-02-20,1.0
+BK0165,The Catcher in the Rye,J.D. Salinger,Mystery,2008,2024-01-13,12,2024-02-21,3.0
+BK0140,Fahrenheit 451,william Golding,Poetry,1959,2024-01-13,12,2024-02-21,1.0
+BK0055,The Hobbit,Aldous HUXLEY,Fiction,2016,2024-01-13,9,2024-02-04,3.0
+BK0137,Brave New World,Jane   Austen,Reference,1955,2024-01-13,9,2024-01-21,2.0
+BK0118,To Kill a Mockingbird,william Golding,Mystery,2017,2024-01-13,11,2024-02-13,5.0
+BK0033,To Kill a Mockingbird,william Golding,Non-Fiction,1979,2024-01-13,12,2024-02-15,
+BK0048,To Kill a Mockingbird,F. Scott  Fitzgerald,Poetry,2014,2024-01-13,10,2024-02-04,4.0
+BK0124,Animal Farm,william Golding,Historical Fiction,1970,2024-01-13,11,2024-01-31,2.0
+BK0130,Pride and Prejudice,J.R.R. Tolkien,Non-Fiction,2010,2024-01-13,10,2024-02-03,1.0
+BK0059,Fahrenheit 451,Aldous HUXLEY,Fiction,1979,2024-01-13,10,2024-02-18,
+BK0152,The Hobbit,Harper Lee,Historical Fiction,2006,2024-01-14,10,2024-02-09,5.0
+BK0035,Animal Farm,Harper Lee,Biography,1987,2024-01-14,11,2024-02-19,4.0
+BK0170,The Catcher in the Rye,Ray  Bradbury,Science Fiction,1992,2024-01-14,9,2024-02-15,5.0
+BK0022,1984,Aldous HUXLEY,Fiction,1983,2024-01-14,10,2024-02-21,1.0
+BK0150,Pride and Prejudice,Harper Lee,Mystery,2015,2024-01-15,9,2024-02-05,3.0
+BK0141,1984,Harper Lee,Non-Fiction,1976,2024-01-15,12,2024-01-24,1.0
+BK0099,1984,J.D. Salinger,Fiction,1963,2024-01-15,11,2024-01-23,2.0
+BK0135,Animal Farm,Ray  Bradbury,Mystery,1999,2024-01-15,9,2024-02-23,2.0
+BK0048,The Hobbit,F. Scott  Fitzgerald,Science Fiction,1978,2024-01-15,9,2024-01-22,3.0
+BK0023,Brave New World,George Orwell,Fiction,2022,2024-01-15,11,2024-02-07,1.0
+BK0161,Fahrenheit 451,J.R.R. Tolkien,Science Fiction,1977,2024-01-16,10,2024-02-21,2.0
+BK0008,Pride and Prejudice,Harper Lee,Biography,2006,2024-01-16,11,2024-02-19,
+BK0047,Lord of the Flies,Aldous HUXLEY,Mystery,1968,2024-01-16,10,2024-01-29,3.0
+BK0074,1984,F. Scott  Fitzgerald,Reference,2000,2024-01-17,9,2024-02-18,3.0
+BK0097,The Great Gatsby,J.D. Salinger,Historical Fiction,1972,2024-01-17,10,2024-02-09,3.0
+BK0044,Fahrenheit 451,Harper Lee,Non-Fiction,2021,2024-01-17,12,2024-02-27,1.0
+BK0190,To Kill a Mockingbird,J.D. Salinger,Science Fiction,2021,2024-01-17,12,2024-02-11,4.0
+BK0033,1984,Ray  Bradbury,Biography,1976,2024-01-17,9,2024-02-09,1.0
+BK0105,Animal Farm,George  Orwell,Historical Fiction,1983,2024-01-17,12,2024-02-11,2.0
+BK0161,Brave New World,Jane   Austen,Poetry,1962,2024-01-18,13,2024-02-27,3.0
+BK0037,The Catcher in the Rye,F. Scott  Fitzgerald,Science Fiction,1972,2024-01-18,9,2024-01-31,2.0
+BK0126,Pride and Prejudice,Harper Lee,Non-Fiction,1976,2024-01-18,9,,3.0
+BK0195,Lord of the Flies,J.R.R. Tolkien,Mystery,1962,2024-01-18,12,2024-01-29,1.0
+BK0001,The Hobbit,George  Orwell,Non-Fiction,1960,2024-01-18,10,,5.0
+BK0054,To Kill a Mockingbird,J.R.R. Tolkien,Non-Fiction,1960,2024-01-18,11,2024-02-13,4.0
+BK0020,The Catcher in the Rye,George Orwell,Historical Fiction,1990,2024-01-19,10,,5.0
+,Lord of the Flies,George Orwell,Non-Fiction,1991,2024-01-19,10,2024-02-26,1.0
+BK0103,Fahrenheit 451,Aldous HUXLEY,Fiction,1991,2024-01-19,9,,3.0
+BK0012,Pride and Prejudice,J.R.R. Tolkien,Mystery,1996,2024-01-20,10,2024-01-30,2.0
+BK0028,Fahrenheit 451,Aldous HUXLEY,Reference,1985,2024-01-20,10,2024-03-02,2.0
+BK0152,To Kill a Mockingbird,J.D. Salinger,Historical Fiction,1962,2024-01-20,11,2024-02-18,5.0
+BK0080,Animal Farm,J.D. Salinger,Biography,1971,2024-01-20,12,2024-02-28,3.0
+BK0053,1984,Ray  Bradbury,Historical Fiction,1961,2024-01-20,11,2024-01-31,5.0
+BK0085,Pride and Prejudice,william Golding,Science Fiction,1952,2024-01-20,11,,5.0
+BK0016,The Great Gatsby,George  Orwell,Historical Fiction,2002,2024-01-21,11,2024-03-01,4.0
+BK0090,Fahrenheit 451,Aldous HUXLEY,Fiction,1983,2024-01-21,10,2024-02-14,2.0
+BK0068,Lord of the Flies,Harper Lee,Reference,2014,2024-01-21,10,2024-02-19,4.0
+BK0044,Pride and Prejudice,Jane   Austen,Science Fiction,1990,2024-01-22,11,2024-02-19,1.0
+BK0007,1984,Jane   Austen,Science Fiction,2005,2024-01-22,9,,3.0
+BK0126,Fahrenheit 451,George  Orwell,Poetry,1955,2024-01-22,12,2024-02-17,3.0
+BK0133,Animal Farm,Ray  Bradbury,Non-Fiction,1965,2024-01-22,11,2024-02-23,
+BK0128,To Kill a Mockingbird,Jane   Austen,Biography,2002,2024-01-23,12,2024-02-22,4.0
+BK0052,Lord of the Flies,J.R.R. Tolkien,Science Fiction,1950,2024-01-23,9,2024-02-10,3.0
+BK0063,Fahrenheit 451,F. Scott  Fitzgerald,Non-Fiction,2008,2024-01-23,10,2024-02-16,1.0
+BK0108,To Kill a Mockingbird,Harper Lee,Fiction,2002,2024-01-23,12,2024-03-03,5.0
+BK0029,Pride and Prejudice,Jane   Austen,Historical Fiction,2015,2024-01-23,12,2024-02-23,3.0
+BK0001,The Hobbit,william Golding,Biography,1998,2024-01-23,9,,
+BK0187,Lord of the Flies,George Orwell,Fiction,2014,2024-01-24,11,2024-03-01,3.0
+BK0151,Fahrenheit 451,J.R.R. Tolkien,Science Fiction,2013,2024-01-24,10,2024-02-10,4.0
+BK0027,The Catcher in the Rye,George Orwell,Poetry,2022,2024-01-24,10,2024-03-06,5.0
+BK0075,The Catcher in the Rye,J.R.R. Tolkien,Fiction,1996,2024-01-24,10,2024-02-12,5.0
+BK0134,Fahrenheit 451,william Golding,Biography,1975,2024-01-24,10,2024-02-14,1.0
+BK0195,Animal Farm,J.R.R. Tolkien,Historical Fiction,1975,2024-01-24,11,2024-02-12,5.0
+BK0023,Animal Farm,F. Scott  Fitzgerald,Non-Fiction,2012,2024-01-24,12,2024-02-16,2.0
+BK0180,Lord of the Flies,william Golding,Non-Fiction,1957,2024-01-24,12,2024-02-18,2.0
+BK0002,The Hobbit,J.R.R. Tolkien,Biography,1985,2024-01-25,12,2024-02-03,4.0
+BK0171,The Catcher in the Rye,Jane   Austen,Poetry,2009,2024-01-25,9,2024-03-01,2.0
+BK0089,The Hobbit,J.D. Salinger,Biography,1990,2024-01-25,12,2024-02-11,2.0
+BK0060,Animal Farm,George Orwell,Poetry,1957,2024-01-25,9,2024-02-19,3.0
+BK0113,Fahrenheit 451,George  Orwell,Poetry,1952,2024-01-25,9,2024-02-15,1.0
+BK0048,Brave New World,Harper Lee,Non-Fiction,1978,2024-01-25,12,2024-02-06,2.0
+BK0200,The Catcher in the Rye,Jane   Austen,Historical Fiction,1977,2024-01-25,11,2024-02-03,5.0
+BK0180,1984,George Orwell,Biography,1984,2024-01-26,10,2024-02-29,3.0
+BK0033,The Great Gatsby,Aldous HUXLEY,Poetry,1955,2024-01-26,10,2024-03-03,4.0
+BK0200,Lord of the Flies,F. Scott  Fitzgerald,Non-Fiction,2008,2024-01-27,9,2024-02-11,5.0
+BK0046,The Hobbit,Jane   Austen,Mystery,1996,2024-01-27,10,2024-03-02,2.0
+BK0090,Fahrenheit 451,F. Scott  Fitzgerald,Historical Fiction,2003,2024-01-27,11,2024-02-08,3.0
+BK0047,The Great Gatsby,J.R.R. Tolkien,Poetry,2003,2024-01-27,10,2024-02-27,
+BK0122,Lord of the Flies,Harper Lee,Poetry,1979,2024-01-28,9,2024-03-03,3.0
+BK0135,The Hobbit,George Orwell,Science Fiction,2008,2024-01-28,9,2024-02-13,2.0
+BK0172,The Catcher in the Rye,Jane   Austen,Mystery,1950,2024-01-28,10,2024-02-18,1.0
+BK0032,The Hobbit,Ray  Bradbury,Historical Fiction,1968,2024-01-28,9,2024-02-07,4.0
+BK0195,Animal Farm,Jane   Austen,Reference,2023,2024-01-28,12,2024-02-21,5.0
+BK0134,The Great Gatsby,william Golding,Non-Fiction,2014,2024-01-29,10,2024-03-07,1.0
+BK0098,Fahrenheit 451,F. Scott  Fitzgerald,Reference,1997,2024-01-29,10,2024-03-01,4.0
+BK0039,The Great Gatsby,George Orwell,Historical Fiction,1967,2024-01-29,12,2024-02-28,5.0
+BK0100,To Kill a Mockingbird,J.D. Salinger,Historical Fiction,1973,2024-01-29,11,2024-03-10,1.0
+BK0062,Brave New World,Jane   Austen,Non-Fiction,1999,2024-01-29,9,2024-02-11,5.0
+BK0010,The Hobbit,J.D. Salinger,Mystery,1977,2024-01-29,10,2024-02-17,1.0
+BK0090,To Kill a Mockingbird,J.D. Salinger,Poetry,2022,2024-01-29,10,2024-03-13,3.0
+BK0115,Lord of the Flies,Harper Lee,Fiction,1991,2024-01-29,12,2024-03-12,5.0
+BK0164,Brave New World,Aldous HUXLEY,Mystery,1995,2024-01-29,12,2024-03-11,3.0
+BK0161,The Great Gatsby,Aldous HUXLEY,Poetry,2017,2024-01-29,11,2024-03-03,2.0
+BK0169,Brave New World,F. Scott  Fitzgerald,Reference,1974,2024-01-30,11,2024-02-10,
+BK0131,Fahrenheit 451,Aldous HUXLEY,Mystery,1998,2024-01-30,11,2024-02-21,1.0
+BK0099,Lord of the Flies,George Orwell,Reference,2016,2024-01-30,11,2024-02-25,3.0
+BK0049,The Catcher in the Rye,F. Scott  Fitzgerald,Non-Fiction,1962,2024-01-30,10,2024-02-11,5.0
+BK0183,To Kill a Mockingbird,F. Scott  Fitzgerald,Biography,2019,2024-01-30,9,2024-02-19,4.0
+BK0085,Animal Farm,George  Orwell,Reference,1989,2024-01-30,11,2024-02-27,1.0
+BK0098,1984,J.R.R. Tolkien,Historical Fiction,1960,2024-01-30,11,2024-02-10,3.0
+BK0186,Animal Farm,J.R.R. Tolkien,Reference,1983,2024-01-30,12,2024-02-26,1.0
+BK0119,To Kill a Mockingbird,J.R.R. Tolkien,Biography,1975,2024-01-31,9,2024-02-09,3.0
+BK0191,Lord of the Flies,F. Scott  Fitzgerald,Science Fiction,2004,2024-01-31,9,,3.0
+BK0005,To Kill a Mockingbird,Ray  Bradbury,Biography,2008,2024-01-31,12,2024-03-15,3.0
+BK0152,To Kill a Mockingbird,J.R.R. Tolkien,Historical Fiction,2006,2024-01-31,9,2024-03-10,3.0
+BK0146,Lord of the Flies,F. Scott  Fitzgerald,Fiction,2005,2024-01-31,9,,2.0
+BK0078,The Great Gatsby,Harper Lee,Poetry,2021,2024-01-31,12,2024-02-22,2.0
+BK0148,To Kill a Mockingbird,Jane   Austen,Science Fiction,1976,2024-01-31,9,2024-03-15,5.0
+BK0117,Lord of the Flies,Jane   Austen,Non-Fiction,1955,2024-01-31,10,2024-03-06,1.0
+BK0129,Lord of the Flies,George Orwell,Reference,2000,2024-02-01,11,2024-03-11,4.0
+BK0103,Lord of the Flies,George Orwell,Reference,1996,2024-02-01,11,2024-03-13,4.0
+BK0021,The Hobbit,Ray  Bradbury,Mystery,1997,2024-02-01,10,2024-02-10,3.0
+BK0133,Fahrenheit 451,George Orwell,Non-Fiction,2006,2024-02-02,9,2024-02-20,2.0
+BK0052,Brave New World,J.D. Salinger,Non-Fiction,1998,2024-02-02,12,2024-03-16,2.0
+BK0132,Animal Farm,william Golding,Science Fiction,2000,2024-02-02,11,2024-02-29,5.0
+BK0005,The Hobbit,George Orwell,Biography,1976,2024-02-02,10,2024-02-14,3.0
+BK0167,1984,J.D. Salinger,Historical Fiction,2012,2024-02-02,11,2024-02-10,2.0
+BK0155,Animal Farm,william Golding,Biography,1981,2024-02-03,11,2024-02-17,5.0
+BK0048,The Hobbit,Jane   Austen,Science Fiction,2007,2024-02-03,12,2024-03-01,2.0
+BK0136,Pride and Prejudice,J.D. Salinger,Fiction,1994,2024-02-03,11,,4.0
+BK0052,The Catcher in the Rye,Ray  Bradbury,Science Fiction,1959,2024-02-03,10,2024-03-17,3.0
+BK0160,Pride and Prejudice,Ray  Bradbury,Science Fiction,2003,2024-02-03,11,,5.0
+BK0024,1984,Aldous HUXLEY,Biography,1971,2024-02-03,11,2024-02-26,
+BK0071,The Hobbit,Harper Lee,Biography,1980,2024-02-03,10,2024-02-11,2.0
+BK0127,The Catcher in the Rye,Jane   Austen,Non-Fiction,1975,2024-02-03,12,2024-02-28,2.0
+BK0115,The Great Gatsby,william Golding,Science Fiction,1958,2024-02-03,12,2024-02-22,5.0
+BK0022,Pride and Prejudice,william Golding,Fiction,1996,2024-02-03,12,2024-03-14,4.0
+BK0145,Animal Farm,Jane   Austen,Mystery,2016,2024-02-04,10,2024-02-20,4.0
+BK0191,Fahrenheit 451,Aldous HUXLEY,Biography,2022,2024-02-04,11,2024-02-15,1.0
+BK0142,1984,J.R.R. Tolkien,Science Fiction,1951,2024-02-04,10,2024-03-19,4.0
+BK0006,Brave New World,J.R.R. Tolkien,Science Fiction,2004,2024-02-04,10,,5.0
+BK0004,1984,F. Scott  Fitzgerald,Fiction,1955,2024-02-05,10,2024-02-25,5.0
+BK0075,Animal Farm,Harper Lee,Science Fiction,1968,2024-02-05,10,2024-03-05,1.0
+BK0178,Animal Farm,Jane   Austen,Historical Fiction,1989,2024-02-05,12,2024-02-25,5.0
+BK0148,Animal Farm,J.R.R. Tolkien,Biography,1966,2024-02-05,11,2024-03-07,5.0
+BK0153,The Hobbit,George  Orwell,Mystery,1984,2024-02-05,11,2024-03-13,1.0
+BK0014,Brave New World,william Golding,Biography,1968,2024-02-05,10,2024-03-01,2.0
+BK0086,To Kill a Mockingbird,F. Scott  Fitzgerald,Fiction,1972,2024-02-06,11,2024-03-10,
+BK0044,Fahrenheit 451,George Orwell,Fiction,2004,2024-02-06,10,2024-03-03,4.0
+BK0095,The Great Gatsby,J.R.R. Tolkien,Non-Fiction,1982,2024-02-06,9,2024-03-11,1.0
+BK0096,The Hobbit,George Orwell,Fiction,1964,2024-02-06,12,2024-02-19,3.0
+BK0151,Animal Farm,william Golding,Reference,1984,2024-02-06,10,2024-03-03,5.0
+BK0152,Lord of the Flies,J.D. Salinger,Fiction,2014,2024-02-06,9,2024-02-24,1.0
+BK0144,Fahrenheit 451,Ray  Bradbury,Biography,1997,2024-02-06,12,2024-03-16,1.0
+BK0153,The Great Gatsby,George  Orwell,Science Fiction,1955,2024-02-06,9,2024-02-16,4.0
+BK0078,The Great Gatsby,Jane   Austen,Mystery,1962,2024-02-07,9,2024-03-19,
+BK0137,Pride and Prejudice,Aldous HUXLEY,Science Fiction,1969,2024-02-07,12,2024-03-17,2.0
+BK0145,To Kill a Mockingbird,Jane   Austen,Mystery,1986,2024-02-07,10,2024-03-17,5.0
+BK0197,Animal Farm,George  Orwell,Fiction,2003,2024-02-07,10,2024-03-19,1.0
+BK0113,Brave New World,Aldous HUXLEY,Fiction,1998,2024-02-07,10,2024-03-16,3.0
+BK0108,Animal Farm,J.D. Salinger,Non-Fiction,1991,2024-02-07,12,2024-02-26,5.0
+BK0161,Brave New World,F. Scott  Fitzgerald,Historical Fiction,1992,2024-02-07,10,2024-03-11,1.0
+BK0174,1984,Ray  Bradbury,Historical Fiction,1954,2024-02-07,12,2024-02-16,3.0
+BK0013,The Hobbit,J.R.R. Tolkien,Mystery,1993,2024-02-08,11,2024-03-10,1.0
+BK0188,The Hobbit,George Orwell,Mystery,1997,2024-02-08,11,2024-03-16,4.0
+BK0144,Animal Farm,George  Orwell,Biography,2017,2024-02-08,11,2024-02-26,3.0
+BK0036,The Hobbit,George Orwell,Mystery,1956,2024-02-08,9,2024-03-18,1.0
+BK0112,1984,Ray  Bradbury,Biography,1996,2024-02-08,12,2024-02-19,1.0
+BK0057,Brave New World,J.R.R. Tolkien,Fiction,2006,2024-02-08,12,2024-03-22,3.0
+BK0047,The Hobbit,Ray  Bradbury,Poetry,1999,2024-02-08,11,2024-02-23,3.0
+BK0160,To Kill a Mockingbird,J.D. Salinger,Historical Fiction,1977,2024-02-08,11,2024-02-18,1.0
+BK0038,The Great Gatsby,Ray  Bradbury,Fiction,2000,2024-02-08,9,2024-03-05,5.0
+BK0156,Brave New World,George  Orwell,Historical Fiction,1997,2024-02-08,10,2024-03-14,4.0
+BK0155,Animal Farm,Harper Lee,Biography,1964,2024-02-08,12,2024-02-27,2.0
+BK0192,Animal Farm,Ray  Bradbury,Fiction,1959,2024-02-09,9,2024-03-23,2.0
+BK0151,Brave New World,J.R.R. Tolkien,Science Fiction,1958,2024-02-09,12,2024-02-24,5.0
+BK0003,To Kill a Mockingbird,Harper Lee,Non-Fiction,2014,2024-02-09,10,2024-03-12,3.0
+BK0076,Pride and Prejudice,Ray  Bradbury,Historical Fiction,1984,2024-02-10,10,2024-03-15,3.0
+BK0155,The Hobbit,Ray  Bradbury,Fiction,1972,2024-02-10,12,2024-03-13,2.0
+BK0087,Pride and Prejudice,Jane   Austen,Biography,2014,2024-02-10,10,2024-02-22,1.0
+BK0107,The Hobbit,George Orwell,Poetry,1967,2024-02-10,12,2024-03-21,2.0
+BK0099,Fahrenheit 451,Ray  Bradbury,Reference,1989,2024-02-10,11,2024-03-16,3.0
+BK0008,The Catcher in the Rye,J.R.R. Tolkien,Mystery,2016,2024-02-10,9,2024-03-19,5.0
+BK0185,Pride and Prejudice,william Golding,Biography,2014,2024-02-11,9,2024-03-02,
+BK0182,1984,Ray  Bradbury,Science Fiction,1973,2024-02-11,11,2024-03-15,2.0
+BK0129,The Catcher in the Rye,Aldous HUXLEY,Reference,2004,2024-02-11,11,2024-02-24,1.0
+BK0123,Fahrenheit 451,J.D. Salinger,Mystery,1956,2024-02-11,9,2024-02-24,2.0
+,The Catcher in the Rye,J.D. Salinger,Historical Fiction,2020,2024-02-11,11,2024-02-24,3.0
+BK0122,Pride and Prejudice,F. Scott  Fitzgerald,Reference,1954,2024-02-11,9,2024-02-18,5.0
+BK0159,Fahrenheit 451,Aldous HUXLEY,Science Fiction,1997,2024-02-12,10,2024-03-03,5.0
+BK0130,To Kill a Mockingbird,william Golding,Poetry,2018,2024-02-12,9,,5.0
+BK0168,Animal Farm,J.R.R. Tolkien,Non-Fiction,1994,2024-02-12,11,2024-03-10,4.0
+BK0152,The Great Gatsby,Jane   Austen,Fiction,1957,2024-02-13,9,2024-03-21,3.0
+BK0130,Fahrenheit 451,J.R.R. Tolkien,Fiction,1967,2024-02-13,9,2024-03-16,2.0
+BK0046,The Hobbit,Harper Lee,Reference,1964,2024-02-13,12,2024-03-01,2.0
+BK0123,Fahrenheit 451,Aldous HUXLEY,Non-Fiction,2000,2024-02-13,11,2024-03-13,3.0
+BK0039,Animal Farm,J.R.R. Tolkien,Biography,1951,2024-02-13,10,2024-03-24,3.0
+BK0178,The Great Gatsby,Ray  Bradbury,Science Fiction,1998,2024-02-13,10,,4.0
+BK0170,Pride and Prejudice,George Orwell,Mystery,1959,2024-02-13,9,2024-03-23,1.0
+BK0054,The Catcher in the Rye,Jane   Austen,Science Fiction,1960,2024-02-14,11,2024-03-20,5.0
+BK0056,The Catcher in the Rye,Jane   Austen,Mystery,2007,2024-02-14,10,2024-03-10,
+BK0084,The Catcher in the Rye,J.R.R. Tolkien,Fiction,1981,2024-02-14,11,2024-03-29,5.0
+BK0086,The Hobbit,Ray  Bradbury,Mystery,1988,2024-02-15,9,2024-03-14,4.0
+BK0048,To Kill a Mockingbird,George  Orwell,Fiction,2018,2024-02-16,10,,1.0
+BK0115,The Great Gatsby,Aldous HUXLEY,Biography,1976,2024-02-16,10,2024-03-18,3.0
+BK0141,To Kill a Mockingbird,George Orwell,Historical Fiction,2013,2024-02-16,10,2024-03-30,2.0
+BK0141,1984,william Golding,Mystery,1976,2024-02-16,9,2024-03-24,5.0
+BK0084,Animal Farm,J.R.R. Tolkien,Reference,1973,2024-02-16,12,2024-02-24,2.0
+BK0102,Fahrenheit 451,F. Scott  Fitzgerald,Science Fiction,1971,2024-02-16,10,2024-03-29,3.0
